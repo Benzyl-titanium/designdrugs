@@ -1,5 +1,3 @@
-# 表格
-
 <table>
     <thead>
         <tr>
@@ -1602,21 +1600,3 @@
         </tr>
     </tbody>
 </table>
-
-# 软件下载
-
-## KingDraw
-
-**[官网地址](http://www.kingdraw.cn/index?name=download)**  
-![kingdraw](public/imgs/kingdraw.png)
-
-## ChemDraw
-
-**[官网地址](https://revvitysignals.com/products/research/chemdraw)**  
-![chemdraw](public/imgs/chemdraw.png)
-
-# 文件下载
-
-- **[未管制品种增补目录结构式.cdx](https://github.com/Benzyl-titanium/Supplementary-Catalog-of-Uncontrolled-Varieties/releases/download/v25.04.20/scouv.cdx)**
-- **[未管制品种增补目录结构式.kdx](https://github.com/Benzyl-titanium/Supplementary-Catalog-of-Uncontrolled-Varieties/releases/download/v25.04.20/scouv.kdx)**
-- **[未管制品种增补目录结构式.xlxs](https://github.com/Benzyl-titanium/Supplementary-Catalog-of-Uncontrolled-Varieties/releases/download/v25.04.20/scouv.xlsx)**
