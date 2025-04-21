@@ -368,7 +368,7 @@
         </tr>
         <tr>
             <td>12</td>
-            <td></td>
+            <td>1024612-25-6</td>
             <td>[3-[2-[ethyl(propan-2-yl)amino]ethyl]-1H-indol-4-yl] acetate</td>
             <td>4-AcO-EiPT</td>
             <td><img class="molecule-img" loading="lazy" decoding="async" src="https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/smiles/CCN(CCC1=CNC2=CC=CC(OC(C)=O)=C12)C(C)C/PNG?image_size=400x400" alt=""></td>
