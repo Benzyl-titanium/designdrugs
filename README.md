@@ -4,7 +4,7 @@
 
 ## 表格链接
 
-https://benzyl-titanium.netlify.app
+https://benzyl-titanium.netlify.app/designdrugs
 
 ### 功能
 
@@ -17,7 +17,7 @@ https://benzyl-titanium.netlify.app
 
 chemdraw的cdx和kingdraw的kdx
 
-* [scouv.zip](https://github.com/Benzyl-titanium/designdrugs/releases/download/2025.05.12/scouv.zip)
+* [scouv.zip](https://github.com/Benzyl-titanium/designdrugs/releases/download/v25.05.12/scouv.zip)
 
 ## 致谢
 
