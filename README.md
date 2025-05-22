@@ -4,7 +4,7 @@
 
 ## 表格链接
 
-https://benzyl-titanium.netlify.app/designdrugs
+https://biantai.pages.dev/designdrugs
 
 ### 功能
 
