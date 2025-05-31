@@ -55,6 +55,12 @@ a:hover{
     color: #e3769b;
 }
 
+img{
+    height: auto;
+    max-width: 100%;
+    vertical-align: middle;
+}
+
 .nav-list {
     flex-wrap: wrap;
     justify-content: center;
