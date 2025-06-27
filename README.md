@@ -4,7 +4,8 @@
 
 ## 表格链接
 
-https://biantai.pages.dev/designdrugs
+* https://biantai.pages.dev/designdrugs
+* https://benzyl-titanium.pages.dev/posts/drug/designdrugs/
 
 ### 功能
 
