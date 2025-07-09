@@ -12,7 +12,7 @@
     <li><a href="#xlsx">xLSx</a></li>
     <li><a href="#取代色胺">取代色胺</a></li>
     <li><a href="#类芬太尼">类芬太尼</a></li>
-    <li><a href="#苯并咪唑">苯并咪唑</a></li>
+    <li><a href="#苯并咪唑"><del>苯并咪唑</del></a></li>
     <li><a href="#utopioid">Utopioid</a></li>
     <li><a href="#新型阿片">新型阿片</a></li>
     <li><a href="#吗啡喃">吗啡喃</a></li>
@@ -596,7 +596,7 @@
     </tbody>
 </table>
 
-# 苯并咪唑
+# ~~苯并咪唑~~
 
 <table>
     <tbody>
@@ -609,16 +609,16 @@
         </tr>
         <tr>
             <td>1</td>
-            <td>714190-52-0</td>
-            <td>2-[2-[(4-ethoxyphenyl)methyl]-5-nitrobenzimidazol-1-yl]-N,N-dimethylethanamine</td>
+            <td><del>714190-52-0</del></td>
+            <td><del>2-[2-[(4-ethoxyphenyl)methyl]-5-nitrobenzimidazol-1-yl]-N,N-dimethylethanamine</del></td>
             <td>&nbsp;</td>
             <td><img src="images/CCOC1=CC=C(C=C1)CC2=NC3=C(N2CCN(C)C)C=CC(=C3)[N+](=O)[O-]_200.svg"/></td>
         </tr>
         <tr>
             <td>2</td>
-            <td>96587-76-7</td>
-            <td>2-[2-[(4-butan-2-yloxyphenyl)methyl]-5-nitrobenzimidazol-1-yl]-N,N-diethylethanamine</td>
-            <td><a href="https://en.wikipedia.org/wiki/Secbutonitazene" target="_blank">Secbutonitazene</a></td>
+            <td><del>96587-76-7</del></td>
+            <td><del>2-[2-[(4-butan-2-yloxyphenyl)methyl]-5-nitrobenzimidazol-1-yl]-N,N-diethylethanamine</del></td>
+            <td><a href="https://en.wikipedia.org/wiki/Secbutonitazene" target="_blank"><del>Secbutonitazene</del></a></td>
             <td><img src="images/CCC(C)OC1=CC=C(CC2=NC3=C(C=CC([N+](=O)[O-])=C3)N2CCN(CC)CC)C=C1_200.svg"/></td>
         </tr>
     </tbody>
