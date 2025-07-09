@@ -8,8 +8,8 @@
 
 ## 表格
 
-* [designdrugs.md](designdrugs.md)
-* https://benzyl-titanium.top/posts/drug/designdrugs
+* [github](designdrugs.md)
+* <a href="https://benzyl-titanium.pages.dev/posts/drug/designdrugs" target="_blank">blog</a>
 
 ## 结构式文件
 
