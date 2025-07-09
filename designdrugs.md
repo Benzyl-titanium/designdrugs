@@ -73,7 +73,7 @@
             <td>752982-24-4</td>
             <td>2-(4-ethynyl-2,5-dimethoxyphenyl)ethanamine</td>
             <td><a href="https://en.wikipedia.org/wiki/2C-YN" target="_blank">2C-YN</a></td>
-            <td><img src="images/COC1=CC(=C(C=C1CCN)OC)C#C_200.svg"></td>
+            <td><img src="images/COC1=CC(=C(C=C1CCN)OC)C%23C_200.svg"></td>
         </tr>
         <tr>
             <td>4</td>
@@ -199,7 +199,7 @@
             <td>67460-68-8</td>
             <td>1-(2,5-dimethoxy-4-nitrophenyl)propan-2-amine</td>
             <td><a href="https://en.wikipedia.org/wiki/2,5-Dimethoxy-4-nitroamphetamine" target="_blank">DON</a></td>
-            <td><img src="images/CC(CC1=CC(=C(C=C1OC)[N+](=O)[O-])OC)N_200.svg"></td>
+            <td><img src="images/CC(CC1=CC(=C(C=C1OC)%5BN%2B%5D(=O)%5BO-%5D)OC)N_200.svg"></td>
         </tr>
         <tr>
             <td>10</td>
@@ -360,14 +360,14 @@
             <td>&nbsp;</td>
             <td>(6aR,9R)-N,N-Diethyl-7-methyl-4-Benzoyl-<br>4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinoline-9-carboxamide</td>
             <td>1Bz-LSD</td>
-            <td><img src="images/CCN(CC)C(=O)[C@@H]1C=C2C3=CC=CC4=C3C(=CN4C(=O)C3=CC=CC=C3)C[C@]2N(C)C1_200.svg"></td>
+            <td><img src="images/CCN(CC)C(=O)%5BC%40%40H%5D1C=C2C3=CC=CC4=C3C(=CN4C(=O)C3=CC=CC=C3)C%5BC%40%5D2N(C)C1_200.svg"></td>
         </tr>
         <tr>
             <td>2</td>
             <td>&nbsp;</td>
             <td>(6aR,9R)-4-(Cyclopropanecarbonyl)-N,N-diethyl-7-prop-2-enyl-<br>6,6a,8,9-hexahydroindolo[4,3-fg]quinoline-9-carboxamide</td>
             <td>1cP-AL-LAD</td>
-            <td><img src="images/C=CCN1C[C@](C(=O)N(CC)CC)C=C2C3=CC=CC4=C3C(=CN4C(=O)C3CC3)C[C@]21_200.svg"></td>
+            <td><img src="images/C=CCN1C%5BC%40%5D(C(=O)N(CC)CC)C=C2C3=CC=CC4=C3C(=CN4C(=O)C3CC3)C%5BC%40%5D21_200.svg"></td>
         </tr>
     </tbody>
 </table>
@@ -542,14 +542,14 @@
             <td>250672-65-2</td>
             <td>(R)-3-(N-methylpyrrolidin-2-ylmethyl)-4-hydoxyindole</td>
             <td><a href="https://en.wikipedia.org/wiki/4-HO-MPMI" target="_blank">4-HO-MPMI</a></td>
-            <td><img src="images/CN1CCC[C@@H]1CC1=CNC2=CC=CC(O)=C12_200.svg"></td>
+            <td><img src="images/CN1CCC%5BC%40%40H%5D1CC1=CNC2=CC=CC(O)=C12_200.svg"></td>
         </tr>
         <tr>
             <td>24</td>
             <td>143321-57-7</td>
             <td>5-Methoxy-3-{[(2R)-1-methylpyrrolidin-2-yl]methyl}-1H-indole</td>
             <td><a href="https://en.wikipedia.org/wiki/5-MeO-MPMI" target="_blank">5-MeO-MPMI</a></td>
-            <td><img src="images/COC1=CC=C2NC=C(C[C@H]3CCCN3C)C2=C1_200.svg"></td>
+            <td><img src="images/COC1=CC=C2NC=C(C%5BC%40H%5D3CCCN3C)C2=C1_200.svg"></td>
         </tr>
     </tbody>
 </table>
@@ -584,7 +584,7 @@
             <td>76754-18-2</td>
             <td>N-phenyl-N-[(1R,5S)-8-(2-phenylethyl)-8-azabicyclo[3.2.1]octan-3-yl]propanamide</td>
             <td>&nbsp;</td>
-            <td><img src="images/CCC(=O)N(C1C[C@H]2CC[C@@H](C1)N2CCC3=CC=CC=C3)C4=CC=CC=C4_200.svg"></td>
+            <td><img src="images/CCC(=O)N(C1C%5BC%40H%5D2CC%5BC%40%40H%5D(C1)N2CCC3=CC=CC=C3)C4=CC=CC=C4_200.svg"></td>
         </tr>
         <tr>
             <td>4</td>
@@ -612,14 +612,14 @@
             <td><del>714190-52-0</del></td>
             <td><del>2-[2-[(4-ethoxyphenyl)methyl]-5-nitrobenzimidazol-1-yl]-N,N-dimethylethanamine</del></td>
             <td>&nbsp;</td>
-            <td><img src="images/CCOC1=CC=C(C=C1)CC2=NC3=C(N2CCN(C)C)C=CC(=C3)[N+](=O)[O-]_200.svg"></td>
+            <td><img src="images/CCOC1=CC=C(C=C1)CC2=NC3=C(N2CCN(C)C)C=CC(=C3)%5BN%2B%5D(=O)%5BO-%5D_200.svg"></td>
         </tr>
         <tr>
             <td>2</td>
             <td><del>96587-76-7</del></td>
             <td><del>2-[2-[(4-butan-2-yloxyphenyl)methyl]-5-nitrobenzimidazol-1-yl]-N,N-diethylethanamine</del></td>
             <td><a href="https://en.wikipedia.org/wiki/Secbutonitazene" target="_blank"><del>Secbutonitazene</del></a></td>
-            <td><img src="images/CCC(C)OC1=CC=C(CC2=NC3=C(C=CC([N+](=O)[O-])=C3)N2CCN(CC)CC)C=C1_200.svg"></td>
+            <td><img src="images/CCC(C)OC1=CC=C(CC2=NC3=C(C=CC(%5BN%2B%5D(=O)%5BO-%5D)=C3)N2CCN(CC)CC)C=C1_200.svg"></td>
         </tr>
     </tbody>
 </table>
@@ -640,56 +640,56 @@
             <td>67198-13-4</td>
             <td>2-(3,4-dichlorophenyl)-N-methyl-N-[(1R,2R)-2-pyrrolidin-1-ylcyclohexyl]acetamide</td>
             <td><a href="https://en.wikipedia.org/wiki/U-50488" target="_blank">U-50488</a></td>
-            <td><img src="images/CN(C(=O)CC1=CC=C(Cl)C(Cl)=C1)[C@@H]1CCCC[C@H]1N1CCCC1_200.svg"></td>
+            <td><img src="images/CN(C(=O)CC1=CC=C(Cl)C(Cl)=C1)%5BC%40%40H%5D1CCCC%5BC%40H%5D1N1CCCC1_200.svg"></td>
         </tr>
         <tr>
             <td>2</td>
             <td>96744-75-1</td>
             <td>N-methyl-2-phenyl-N-[(5R,7S,8S)-7-(pyrrolidin-1-yl)-1-oxaspiro[4.5]dec-8-yl]acetamide</td>
             <td><a href="https://en.wikipedia.org/wiki/U-69593" target="_blank">U-69593</a></td>
-            <td><img src="images/CN([C@H]1CC[C@@]2(CCCO2)C[C@@H]1N3CCCC3)C(=O)CC4=CC=CC=C4_200.svg"></td>
+            <td><img src="images/CN(%5BC%40H%5D1CC%5BC%40%40%5D2(CCCO2)C%5BC%40%40H%5D1N3CCCC3)C(=O)CC4=CC=CC=C4_200.svg"></td>
         </tr>
         <tr>
             <td>3</td>
             <td>87151-85-7</td>
             <td>2-(3,4-Dichlorophenyl)-N-methyl-N-[(5R,7S,8S)-7-pyrrolidin-1-yl-1-oxaspiro[4.5]decan-8-yl] acetamide</td>
             <td><a href="https://en.wikipedia.org/wiki/U-62066" target="_blank">U-62066</a></td>
-            <td><img src="images/CN([C@H]1CC[C@@]2(CCCO2)C[C@@H]1N3CCCC3)C(=O)CC4=CC(=C(C=C4)Cl)Cl_200.svg"></td>
+            <td><img src="images/CN(%5BC%40H%5D1CC%5BC%40%40%5D2(CCCO2)C%5BC%40%40H%5D1N3CCCC3)C(=O)CC4=CC(=C(C=C4)Cl)Cl_200.svg"></td>
         </tr>
         <tr>
             <td>4</td>
             <td>124378-77-4</td>
             <td>2-(1-Benzofuran-4-yl)-N-methyl-N-[(5R,7S,8S)-7-pyrrolidin-1-yl-1-oxaspiro[4.5]decan-8-yl]acetamide</td>
             <td><a href="https://en.wikipedia.org/wiki/Enadoline" target="_blank">Enadoline(Cl-977)</a></td>
-            <td><img src="images/CN([C@H]1CC[C@@]2(CCCO2)C[C@@H]1N3CCCC3)C(=O)CC4=C5C=COC5=CC=C4_200.svg"></td>
+            <td><img src="images/CN(%5BC%40H%5D1CC%5BC%40%40%5D2(CCCO2)C%5BC%40%40H%5D1N3CCCC3)C(=O)CC4=C5C=COC5=CC=C4_200.svg"></td>
         </tr>
         <tr>
             <td>5</td>
             <td>119878-31-8</td>
             <td>3,4-Dibromo-N-methyl-N-[(5S,6R)-1-methyl-1-azaspiro[4.5]decan-6-yl]benzamide</td>
             <td><a href="https://en.wikipedia.org/wiki/U-77891" target="_blank">U-77891</a></td>
-            <td><img src="images/CN1CCC[C@]12CCCC[C@H]2N(C)C(=O)C3=CC(=C(C=C3)Br)Br_200.svg"></td>
+            <td><img src="images/CN1CCC%5BC%40%5D12CCCC%5BC%40H%5D2N(C)C(=O)C3=CC(=C(C=C3)Br)Br_200.svg"></td>
         </tr>
         <tr>
             <td>6</td>
             <td>492451-07-7</td>
             <td>2-(3,4-dichlorophenyl)-N-[(2S)-1-(2,5-dihydropyrrol-1-yl)-3-methylbutan-2-yl]-N-methylacetamide</td>
             <td><a href="https://en.wikipedia.org/wiki/LPK-26" target="_blank">LPK-26</a></td>
-            <td><img src="images/CC(C)[C@@H](CN1CC=CC1)N(C)C(=O)CC2=CC(=C(C=C2)Cl)Cl_200.svg"></td>
+            <td><img src="images/CC(C)%5BC%40%40H%5D(CN1CC=CC1)N(C)C(=O)CC2=CC(=C(C=C2)Cl)Cl_200.svg"></td>
         </tr>
         <tr>
             <td>7</td>
             <td>2370977-17-4</td>
             <td>2-(2,4-dichlorophenyl)-N-[(1S,2S)-2-(dimethylamino)cyclohexyl]-N-methylacetamide</td>
             <td><a href="https://en.wikipedia.org/wiki/U-48800" target="_blank">U-48800</a></td>
-            <td><img src="images/CN(C)[C@H]1CCCC[C@@H]1N(C)C(=O)CC2=C(C=C(C=C2)Cl)Cl_200.svg"></td>
+            <td><img src="images/CN(C)%5BC%40H%5D1CCCC%5BC%40%40H%5D1N(C)C(=O)CC2=C(C=C(C=C2)Cl)Cl_200.svg"></td>
         </tr>
         <tr>
             <td>8</td>
             <td>2488874-96-8</td>
             <td>N-[(1R,2R)-2-(dimethylamino)cyclohexyl]-N-methyl-1,3-benzodioxole-5-carboxamide</td>
             <td><a href="https://en.wikipedia.org/wiki/3,4-MDO-U-47700" target="_blank">3,4-MDO-U-47700</a></td>
-            <td><img src="images/CN(C)[C@@H]1CCCC[C@H]1N(C)C(=O)C1=CC2=C(C=C1)OCO2_200.svg"></td>
+            <td><img src="images/CN(C)%5BC%40%40H%5D1CCCC%5BC%40H%5D1N(C)C(=O)C1=CC2=C(C=C1)OCO2_200.svg"></td>
         </tr>
         <tr>
             <td>9</td>
@@ -717,28 +717,28 @@
             <td>1401029-50-2</td>
             <td>N-[(5-fluoropyridin-3-yl)methyl]-2-[(9R)-9-pyridin-2-yl-<br>6-oxaspiro[4.5]decan-9-yl]ethanamine</td>
             <td><a href="https://en.wikipedia.org/wiki/TRV734" target="_blank">TRV734</a></td>
-            <td><img src="images/FC1=CC(CNCC[C@]2(C3=NC=CC=C3)CCOC3(CCCC3)C2)=CN=C1_200.svg"></td>
+            <td><img src="images/FC1=CC(CNCC%5BC%40%5D2(C3=NC=CC=C3)CCOC3(CCCC3)C2)=CN=C1_200.svg"></td>
         </tr>
         <tr>
             <td>2</td>
             <td>2095345-71-2</td>
             <td>(1'S)-N-[2-[(9R)-9-pyridin-2-yl-6-oxaspiro[4.5]decan-9-yl]ethyl]<br>spiro[1,3-dithiolane-2,4'-2,3-dihydro-1H-naphthalene]-1'-amine</td>
             <td><a href="https://en.wikipedia.org/wiki/SHR9352" target="_blank">SHR9352</a></td>
-            <td><img src="images/C1=CN=C([C@]2(CCN[C@H]3CCC4(SCCS4)C4=CC=CC=C43)CCOC3(CCCC3)C2)C=C1_200.svg"></td>
+            <td><img src="images/C1=CN=C(%5BC%40%5D2(CCN%5BC%40H%5D3CCC4(SCCS4)C4=CC=CC=C43)CCOC3(CCCC3)C2)C=C1_200.svg"></td>
         </tr>
         <tr>
             <td>3</td>
             <td>&nbsp;</td>
             <td>(1R,2R)-2-methoxy-N-[2-[(9R)-9-pyridin-2-yl-6-oxaspiro[4.5]decan-9-yl]<br>ethyl]-2,3-dihydro-1H-inden-1-amine</td>
             <td>&nbsp;</td>
-            <td><img src="images/CO[C@H]1CC2=CC=CC=C2[C@H]1NCC[C@]1(C2=NC=CC=C2)CCOC2(CCCC2)C1_200.svg"></td>
+            <td><img src="images/CO%5BC%40H%5D1CC2=CC=CC=C2%5BC%40H%5D1NCC%5BC%40%5D1(C2=NC=CC=C2)CCOC2(CCCC2)C1_200.svg"></td>
         </tr>
         <tr>
             <td>4</td>
             <td>&nbsp;</td>
             <td>[(3-chlorophenyl)methyl]（{2-[(5S,9R)-9-(5-fluoropyridin-2-yl)-<br>2,6-dioxaspiro[4.5]decan-9-yl]ethyl}）amine</td>
             <td>LPM3480392</td>
-            <td><img src="images/FC1=CN=C([C@]2(CCNCC3=CC=CC(Cl)=C3)CCO[C@]3(CCOC3)C2)C=C1_200.svg"></td>
+            <td><img src="images/FC1=CN=C(%5BC%40%5D2(CCNCC3=CC=CC(Cl)=C3)CCO%5BC%40%5D3(CCOC3)C2)C=C1_200.svg"></td>
         </tr>
     </tbody>
 </table>
@@ -759,28 +759,28 @@
             <td>13965-63-4</td>
             <td>(2R)-2-((4R,7S,7aR,12bS,14R)-7,9-dimethoxy-3-methyl-1,2,3,4,7,7a-hexahydro-<br>7,4a-ethano-4,12-methanobenzofuro[3,2-e]isoquinolin-14-yl)-4-phenylbutan-2-ol</td>
             <td><a href="https://en.wikipedia.org/wiki/7-PET" target="_blank">7-PET</a></td>
-            <td><img src="images/COC1=C2O[C@H]3[C@]45CCN(C)[C@H](CC(=C24)C=C1)[C@]51C=C[C@]3(OC)[C@H]([C@](C)(O)CCC2=CC=CC=C2)C1_200.svg"></td>
+            <td><img src="images/COC1=C2O%5BC%40H%5D3%5BC%40%5D45CCN(C)%5BC%40H%5D(CC(=C24)C=C1)%5BC%40%5D51C=C%5BC%40%5D3(OC)%5BC%40H%5D(%5BC%40%5D(C)(O)CCC2=CC=CC=C2)C1_200.svg"></td>
         </tr>
         <tr>
             <td>2</td>
             <td>1374406-56-0</td>
             <td>7α-[(R)-1-hydroxy-1-methyl-3-(thiophen-3-yl)-propyl]-6,14-endo-ethanotetrahydrooripavine</td>
             <td><a href="https://en.wikipedia.org/wiki/TH-030418" target="_blank">TH-030418</a></td>
-            <td><img src="images/CO[C@]12CC[C@]3(C[C@H]1[C@](C)(O)CCC1=CC=CS1)[C@H]1CC4=CC=C(O)C5=C4[C@]3(CCN1C)[C@H]2O5_200.svg"></td>
+            <td><img src="images/CO%5BC%40%5D12CC%5BC%40%5D3(C%5BC%40H%5D1%5BC%40%5D(C)(O)CCC1=CC=CS1)%5BC%40H%5D1CC4=CC=C(O)C5=C4%5BC%40%5D3(CCN1C)%5BC%40H%5D2O5_200.svg"></td>
         </tr>
         <tr>
             <td>3</td>
             <td>131575-03-6</td>
             <td>3-Hydroxy-14-methoxy-5,17-dimethyl-7,8-dihydro-4,5α-epoxy-morphinan-6-one</td>
             <td><a href="https://en.wikipedia.org/wiki/14-Methoxymetopon" target="_blank">14-Methoxymetopon</a></td>
-            <td><img src="images/CO[C@]12CCC(=O)[C@]3(C)OC4=C5C(=CC=C4O)C[C@H]1N(C)CC[C@]523_200.svg"></td>
+            <td><img src="images/CO%5BC%40%5D12CCC(=O)%5BC%40%5D3(C)OC4=C5C(=CC=C4O)C%5BC%40H%5D1N(C)CC%5BC%40%5D523_200.svg"></td>
         </tr>
         <tr>
             <td>4</td>
             <td>&nbsp;</td>
             <td>3-Hydroxy-14-(3-phenylpropoxy)-5-methyl-7,8-dihydro-4,5α-epoxy-17-methylmorphinan-6-one</td>
             <td><a href="https://en.wikipedia.org/wiki/14-Phenylpropoxymetopon" target="_blank">PPOM</a></td>
-            <td><img src="images/CN1CC[C@]23C4=C5O[C@]2(C)C(=O)CC[C@]3(OCCCC2=CC=CC=C2)C1CCC4=CC=C5O_200.svg"></td>
+            <td><img src="images/CN1CC%5BC%40%5D23C4=C5O%5BC%40%5D2(C)C(=O)CC%5BC%40%5D3(OCCCC2=CC=CC=C2)C1CCC4=CC=C5O_200.svg"></td>
         </tr>
         <tr>
             <td>5</td>
@@ -794,28 +794,28 @@
             <td>4778-96-5</td>
             <td>3,6,14-trihydroxy-4,5α-epoxy-17-(2-phenylethyl)morphinan</td>
             <td><a href="https://en.wikipedia.org/wiki/RAM-378" target="_blank">RAM-378</a></td>
-            <td><img src="images/OC1=CC=C2C[C@H]3N(CCC4=CC=CC=C4)CC[C@]45C2=C1O[C@H]4[C@H](O)CC[C@]35O_200.svg"></td>
+            <td><img src="images/OC1=CC=C2C%5BC%40H%5D3N(CCC4=CC=CC=C4)CC%5BC%40%5D45C2=C1O%5BC%40H%5D4%5BC%40H%5D(O)CC%5BC%40%5D35O_200.svg"></td>
         </tr>
         <tr>
             <td>7</td>
             <td>722450-07-9</td>
             <td>3-hydroxy-4,5α-epoxy-17-(2-phenylethyl)morphinan</td>
             <td><a href="https://en.wikipedia.org/wiki/N-Phenethylnordesomorphine" target="_blank">N-Phenethylnordesomorphine</a></td>
-            <td><img src="images/OC1=CC=C2C[C@H]3[C@H]4CCC[C@H]5OC1=C2[C@]54CCN3CCC1=CC=CC=C1_200.svg"></td>
+            <td><img src="images/OC1=CC=C2C%5BC%40H%5D3%5BC%40H%5D4CCC%5BC%40H%5D5OC1=C2%5BC%40%5D54CCN3CCC1=CC=CC=C1_200.svg"></td>
         </tr>
         <tr>
             <td>8</td>
             <td>27767-85-7</td>
             <td>17-(2-(Furan-2-yl)ethyl)-3-hydroxymorphinan</td>
             <td><a href="https://en.wikipedia.org/wiki/Ro4-1539" target="_blank">Ro4-1539</a></td>
-            <td><img src="images/OC1=CC=C2C[C@H]3[C@H]4CCCC[C@]4(CCN3CCC3=CC=CO3)C2=C1_200.svg"></td>
+            <td><img src="images/OC1=CC=C2C%5BC%40H%5D3%5BC%40H%5D4CCCC%5BC%40%5D4(CCN3CCC3=CC=CO3)C2=C1_200.svg"></td>
         </tr>
         <tr>
             <td>9</td>
             <td>62509-10-8</td>
             <td>(4R,4aS,7aR,12bS)-4a,9-dihydroxy-3-([(R)-tetrahydrofuran-2-yl]methyl)-<br>2,3,4,4a,5,6-hexahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinolin-7(7aH)one</td>
             <td><a href="https://en.wikipedia.org/wiki/MR-2096" target="_blank">MR-2096</a></td>
-            <td><img src="images/O=C1CC[C@]2(O)[C@H]3CC4=CC=C(O)C5=C4[C@]2(CCN3C[C@H]2CCCO2)[C@H]1O5_200.svg"></td>
+            <td><img src="images/O=C1CC%5BC%40%5D2(O)%5BC%40H%5D3CC4=CC=C(O)C5=C4%5BC%40%5D2(CCN3C%5BC%40H%5D2CCCO2)%5BC%40H%5D1O5_200.svg"></td>
         </tr>
     </tbody>
 </table>
@@ -843,28 +843,28 @@
             <td>863513-91-1</td>
             <td>(1r,4r)-6'-Fluoro-N,N-dimethyl-4-phenyl-4',9'-dihydro-3'H-spiro[cyclohexane-1,1'-pyrano<[3,4-b]indol]-4-amine</td>
             <td><a href="https://en.wikipedia.org/wiki/Cebranopadol" target="_blank">GRT-6005</a></td>
-            <td><img src="images/CN(C)[C@]1(C2=CC=CC=C2)CC[C@]2(CC1)OCCC1C3=CC(F)=CC=C3NC12_200.svg"></td>
+            <td><img src="images/CN(C)%5BC%40%5D1(C2=CC=CC=C2)CC%5BC%40%5D2(CC1)OCCC1C3=CC(F)=CC=C3NC12_200.svg"></td>
         </tr>
         <tr>
             <td>3</td>
             <td>1997387-43-5</td>
             <td>1-[(2S)-2-(Dimethylamino)-3-(4-hydroxyphenyl)propyl]-3-[(2S)-1-(thiophen-3-yl)propan-2-yl]urea</td>
             <td><a href="https://en.wikipedia.org/wiki/PZM21" target="_blank">PZM21</a></td>
-            <td><img src="images/C[C@H](CC1=CSC=C1)NC(=O)NC[C@H](CC1=CC=C(O)C=C1)N(C)C_200.svg"></td>
+            <td><img src="images/C%5BC%40H%5D(CC1=CSC=C1)NC(=O)NC%5BC%40H%5D(CC1=CC=C(O)C=C1)N(C)C_200.svg"></td>
         </tr>
         <tr>
             <td>4</td>
             <td>127093-63-4</td>
             <td>(5S)-5-[(1S)-2-[bis[(2R)-butan-2-yl]amino]-1-hydroxyethyl]-1-(2-chlorobenzyl)pyrrolidin-2-one</td>
             <td><a href="https://en.wikipedia.org/wiki/Z4349" target="_blank">Z4349</a></td>
-            <td><img src="images/CC[C@H](C)N(C[C@H](O)[C@H]1CCC(=O)N1CC1=C(Cl)C=CC=C1)[C@H](C)CC_200.svg"></td>
+            <td><img src="images/CC%5BC%40H%5D(C)N(C%5BC%40H%5D(O)%5BC%40H%5D1CCC(=O)N1CC1=C(Cl)C=CC=C1)%5BC%40H%5D(C)CC_200.svg"></td>
         </tr>
         <tr>
             <td>5</td>
             <td>1849034-34-9</td>
             <td>N-[[1-[[(5S)-5-hydroxy-5,6,7,8-tetrahydronaphthalen-2-yl]methyl]piperidin-2-yl]methyl]-N-phenylpropanamide</td>
             <td>&nbsp;</td>
-            <td><img src="images/CCC(=O)N(CC1CCCCN1CC1=CC2=C(C=C1)[C@H](O)CCC2)C1=CC=CC=C1_200.svg"></td>
+            <td><img src="images/CCC(=O)N(CC1CCCCN1CC1=CC2=C(C=C1)%5BC%40H%5D(O)CCC2)C1=CC=CC=C1_200.svg"></td>
         </tr>
         <tr>
             <td>6</td>
@@ -885,7 +885,7 @@
             <td>616898-54-5</td>
             <td>trans-4-(p-Bromophenyl)-4-(dimethylamino)-1-(2-(thiophen-2-yl)ethyl)cyclohexanol</td>
             <td><a href="https://en.wikipedia.org/wiki/C-8813" target="_blank">C-8813</a></td>
-            <td><img src="images/CN(C)[C@]1(C2=CC=C(Br)C=C2)CC[C@](O)(CCC2=CC=CS2)CC1_200.svg"></td>
+            <td><img src="images/CN(C)%5BC%40%5D1(C2=CC=C(Br)C=C2)CC%5BC%40%5D(O)(CCC2=CC=CS2)CC1_200.svg"></td>
         </tr>
     </tbody>
 </table>
@@ -913,7 +913,7 @@
             <td>140924-11-4</td>
             <td>1-[(2R,6S)-2,6-dimethyl-4-[(E)-3-phenylprop-2-enyl]piperazin-1-yl]propan-1-one</td>
             <td><a href="https://en.wikipedia.org/wiki/AP-238" target="_blank">AP-238</a></td>
-            <td><img src="images/CCC(=O)N1[C@@H](CN(C[C@@H]1C)C_C=C_C2=CC=CC=C2)C_200.svg"></td>
+            <td><img src="images/CCC(=O)N1%5BC%40%40H%5D(CN(C%5BC%40%40H%5D1C)C_C=C_C2=CC=CC=C2)C_200.svg"></td>
         </tr>
     </tbody>
 </table>
@@ -962,7 +962,7 @@
             <td>428-37-5</td>
             <td>3-(1-methyl-3-propyl-pyrrolidin-3-yl)phenol</td>
             <td><a href="https://en.wikipedia.org/wiki/Profadol" target="_blank">Profadol (CI-572)</a></td>
-            <td><img src="images/CCC[C@@]1(C2=CC(O)=CC=C2)CCN(C)C1_200.svg"></td>
+            <td><img src="images/CCC%5BC%40%40%5D1(C2=CC(O)=CC=C2)CCN(C)C1_200.svg"></td>
         </tr>
     </tbody>
 </table>
@@ -990,14 +990,14 @@
             <td>433265-65-7</td>
             <td>3-[(1R,2R)-2-dimethylaminomethylcyclohexyl]phenol</td>
             <td><a href="https://en.wikipedia.org/wiki/Faxeladol" target="_blank">Faxeladol(GRTA-9906)</a></td>
-            <td><img src="images/CN(C)C[C@H]1CCCC[C@H]1C1=CC=CC(O)=C1_200.svg"></td>
+            <td><img src="images/CN(C)C%5BC%40H%5D1CCCC%5BC%40H%5D1C1=CC=CC(O)=C1_200.svg"></td>
         </tr>
         <tr>
             <td>3</td>
             <td>63269-31-8</td>
             <td>3-{(R)-Dimethylamino-[(1R,2R)-2-hydroxycyclohexyl]}methyl]phenol</td>
             <td><a href="https://en.wikipedia.org/wiki/Ciramadol" target="_blank">Ciramadol(WY-15705)</a></td>
-            <td><img src="images/CN(C)[C@H](C1=CC=CC(O)=C1)[C@H]1CCCC[C@H]1O_200.svg"></td>
+            <td><img src="images/CN(C)%5BC%40H%5D(C1=CC=CC(O)=C1)%5BC%40H%5D1CCCC%5BC%40H%5D1O_200.svg"></td>
         </tr>
     </tbody>
 </table>
@@ -1060,35 +1060,35 @@
             <td>152674-96-9</td>
             <td>(6aR,10aR)-3-(2-Methyl-6-bromohex-2-yl)-6,6,9-trimethyl-<br>6a,7,10,10a-tetrahydrobenzo[c]chromen-1-ol</td>
             <td><a href="https://en.wikipedia.org/wiki/AM-087" target="_blank">AM-087</a></td>
-            <td><img src="images/CC1=CC[C@@H]2[C@@H](C1)C1=C(C=C(C(C)(C)CCCCBr)C=C1O)OC2(C)C_200.svg"></td>
+            <td><img src="images/CC1=CC%5BC%40%40H%5D2%5BC%40%40H%5D(C1)C1=C(C=C(C(C)(C)CCCCBr)C=C1O)OC2(C)C_200.svg"></td>
         </tr>
         <tr>
             <td>2</td>
             <td>212835-02-4</td>
             <td>(6aR,10aR)-3-(1-Adamantyl)-6,6,9-trimethyl-<br>6a,7,10,10a-tetrahydrobenzo[c]chromen-1-ol</td>
             <td><a href="https://en.wikipedia.org/wiki/AM-411" target="_blank">AM-411</a></td>
-            <td><img src="images/CC1=CC[C@@H]2[C@@H](C1)C1=C(C=C(C34CC5CC(CC(C5)C3)C4)C=C1O)OC2(C)C_200.svg"></td>
+            <td><img src="images/CC1=CC%5BC%40%40H%5D2%5BC%40%40H%5D(C1)C1=C(C=C(C34CC5CC(CC(C5)C3)C4)C=C1O)OC2(C)C_200.svg"></td>
         </tr>
         <tr>
             <td>3</td>
             <td>1256842-49-5</td>
             <td>(6aR,9R,10aR)-3-(1-hexylcyclobut-1-yl)-6a,7,8,9,10,10a-hexahydro-<br>6,6-dimethyl-6H-dibenzo[b,d]pyran-1,9 diol</td>
             <td><a href="https://en.wikipedia.org/wiki/AM-2389" target="_blank">AM-2389</a></td>
-            <td><img src="images/CCCCCCC1(C2=CC3=C(C(O)=C2)[C@@H]2C[C@H](O)CC[C@H]2C(C)(C)O3)CCC1_200.svg"></td>
+            <td><img src="images/CCCCCCC1(C2=CC3=C(C(O)=C2)%5BC%40%40H%5D2C%5BC%40H%5D(O)CC%5BC%40H%5D2C(C)(C)O3)CCC1_200.svg"></td>
         </tr>
         <tr>
             <td>4</td>
             <td>129658-01-1</td>
             <td>(6aR,9R,10aR)-6,6-dimethyl-3-(5-phenylpentan-2-yloxy)-<br>6a,7,8,9,10,10a-hexahydrobenzo[c]chromene-1,9-diol</td>
             <td><a href="https://en.wikipedia.org/wiki/CP_42,096" target="_blank">CP-42096</a></td>
-            <td><img src="images/CC(CCCC1=CC=CC=C1)OC1=CC2=C(C(O)=C1)[C@@H]1C[C@H](O)CC[C@H]1C(C)(C)O2_200.svg"></td>
+            <td><img src="images/CC(CCCC1=CC=CC=C1)OC1=CC2=C(C(O)=C1)%5BC%40%40H%5D1C%5BC%40H%5D(O)CC%5BC%40H%5D1C(C)(C)O2_200.svg"></td>
         </tr>
         <tr>
             <td>5</td>
             <td>140835-18-3</td>
             <td>(6aR,8S,9S,10aR)-9-(hydroxymethyl)-6,6-dimethyl-3-(2-methyloctan-2-yl)-<br>8,9-ditritio-7,8,10,10a-tetrahydro-6aH-benzo[c]chromen-1-ol</td>
             <td><a href="https://en.wikipedia.org/wiki/HU-243" target="_blank">HU-243</a></td>
-            <td><img src="images/CCCCCCC(C)(C)C1=CC2=C(C(O)=C1)[C@@H]1C[C@H](CO)CC[C@H]1C(C)(C)O2_200.svg"></td>
+            <td><img src="images/CCCCCCC(C)(C)C1=CC2=C(C(O)=C1)%5BC%40%40H%5D1C%5BC%40H%5D(CO)CC%5BC%40H%5D1C(C)(C)O2_200.svg"></td>
         </tr>
         <tr>
             <td>6</td>
@@ -1109,14 +1109,14 @@
             <td>303113-08-8</td>
             <td>(6S,6aR,9R,10aR)-9-(Hydroxymethyl)-6-(3-hydroxyprop-1-ynyl)-6-methyl-<br>3-(2-methyloctan-2-yl)-6a,7,8,9,10,10a-hexahydrobenzo[c]chromen-1-ol</td>
             <td><a href="https://en.wikipedia.org/wiki/AM-938" target="_blank">AM-938</a></td>
-            <td><img src="images/CCCCCCC(C)(C)C1=CC(=C2[C@@H]3C[C@@H](CC[C@H]3[C@](OC2=C1)(C)C#CCO)CO)O_200.svg"></td>
+            <td><img src="images/CCCCCCC(C)(C)C1=CC(=C2%5BC%40%40H%5D3C%5BC%40%40H%5D(CC%5BC%40H%5D3%5BC%40%5D(OC2=C1)(C)C%23CCO)CO)O_200.svg"></td>
         </tr>
         <tr>
             <td>9</td>
             <td>131543-22-1</td>
             <td>(11R)-2-Methyl-11-[(morpholin-4-yl)methyl]-3-(naphthalene-1-carbonyl)-<br>9-oxa-1-azatricyclo[6.3.1.04,12]dodeca-2,4(12),5,7-tetraene</td>
             <td><a href="https://en.wikipedia.org/wiki/WIN_55,212-2" target="_blank">WIN-55212-2</a></td>
-            <td><img src="images/CC1=C(C(=O)C2=C3C=CC=CC3=CC=C2)C2=C3C(=CC=C2)OC[C@@H](CN2CCOCC2)N13_200.svg"></td>
+            <td><img src="images/CC1=C(C(=O)C2=C3C=CC=CC3=CC=C2)C2=C3C(=CC=C2)OC%5BC%40%40H%5D(CN2CCOCC2)N13_200.svg"></td>
         </tr>
         <tr>
             <td>10</td>
@@ -1151,14 +1151,14 @@
             <td>71048-87-8</td>
             <td>[(6S,6aR,9R,10aR)-9-hydroxy-6-methyl-3-[(2R)-5-phenylpentan-2-yl]oxy-<br>5,6,6a,7,8,9,10,10a-octahydrophenanthridin-1-yl]acetate</td>
             <td><a href="https://en.wikipedia.org/wiki/Levonantradol" target="_blank">Levonantradol<br>(CP-50556-1)</a></td>
-            <td><img src="images/CC(=O)OC1=CC(O[C@H](C)CCCC2=CC=CC=C2)=CC2=C1[C@@H]1C[C@H](O)CC[C@H]1[C@H](C)N2_200.svg"></td>
+            <td><img src="images/CC(=O)OC1=CC(O%5BC%40H%5D(C)CCCC2=CC=CC=C2)=CC2=C1%5BC%40%40H%5D1C%5BC%40H%5D(O)CC%5BC%40H%5D1%5BC%40H%5D(C)N2_200.svg"></td>
         </tr>
         <tr>
             <td>15</td>
             <td>79678-32-3</td>
             <td>(2S,4S,4aS,6R,8aR)-6-(Hydroxymethyl)-4-[2-hydroxy-4-(2-methyloctan-2-yl)phenyl]-<br>1,2,3,4,4a,5,6,7,8,8a-decahydronaphthalen-2-o</td>
             <td><a href="https://en.wikipedia.org/wiki/CP_55,244" target="_blank">CP-55244</a></td>
-            <td><img src="images/CCCCCCC(C)(C)C1=CC=C(C2C[C@H](O)C[C@@H]3CC[C@H](CO)C[C@@H]23)C=C1_200.svg"></td>
+            <td><img src="images/CCCCCCC(C)(C)C1=CC=C(C2C%5BC%40H%5D(O)C%5BC%40%40H%5D3CC%5BC%40H%5D(CO)C%5BC%40%40H%5D23)C=C1_200.svg"></td>
         </tr>
     </tbody>
 </table>
@@ -1361,7 +1361,7 @@
             <td>147085-68-5</td>
             <td>(4aR,9aS)-N-methyl-1,2,3,4,9,9a-hexahydrofluoren-4a-amine</td>
             <td><a href="https://en.wikipedia.org/wiki/PD-137889" target="_blank">PD-137889</a></td>
-            <td><img src="images/CN[C@]12CCCC[C@H]1CC1=CC=CC=C12_200.svg"></td>
+            <td><img src="images/CN%5BC%40%5D12CCCC%5BC%40H%5D1CC1=CC=CC=C12_200.svg"></td>
         </tr>
         <tr>
             <td>2</td>
@@ -1375,7 +1375,7 @@
             <td>77086-21-6</td>
             <td>(5R,10S)-(+)-5-methyl-10,11-dihydro-5H-dibenzo[a,d]cyclohepten-5,10-imine</td>
             <td><a href="https://en.wikipedia.org/wiki/Dizocilpine" target="_blank">Dizocilpine</a></td>
-            <td><img src="images/C[C@]1(C2=C(C[C@H]3N1)C=CC=C2)C4=C3C=CC=C4_200.svg"></td>
+            <td><img src="images/C%5BC%40%5D1(C2=C(C%5BC%40H%5D3N1)C=CC=C2)C4=C3C=CC=C4_200.svg"></td>
         </tr>
     </tbody>
 </table>
@@ -1767,7 +1767,7 @@
             <td>24558-01-8</td>
             <td>[(R)-phenyl-[(2R)-piperidin-2-yl]methyl]acetate</td>
             <td><a href="https://en.wikipedia.org/wiki/Levophacetoperane" target="_blank">Levophacetoperane</a></td>
-            <td><img src="images/CC(=O)O[C@H](C1=CC=CC=C1)[C@H]1CCCCN1_200.svg"></td>
+            <td><img src="images/CC(=O)O%5BC%40H%5D(C1=CC=CC=C1)%5BC%40H%5D1CCCCN1_200.svg"></td>
         </tr>
         <tr>
             <td>5</td>
@@ -1788,7 +1788,7 @@
             <td>231299-82-4</td>
             <td>Methyl(naphthalen-2-yl)(piperidin-2-yl)acetate</td>
             <td><a href="https://en.wikipedia.org/wiki/HDMP-28" target="_blank">HDMP-28</a></td>
-            <td><img src="images/COC(=O)[C@@H]([C@H]1CCCCN1)C2=CC3=CC=CC=C3C=C2_200.svg"></td>
+            <td><img src="images/COC(=O)%5BC%40%40H%5D(%5BC%40H%5D1CCCCN1)C2=CC3=CC=CC=C3C=C2_200.svg"></td>
         </tr>
         <tr>
             <td>8</td>
@@ -1949,7 +1949,7 @@
             <td>340-52-3</td>
             <td>2-methyl-3-(2-methoxy-4-nitrophenyl)-4(3H)-quinazolinone</td>
             <td><a href="https://en.wikipedia.org/wiki/Nitromethaqualone" target="_blank">Nitromethaqualone</a></td>
-            <td><img src="images/COC1=CC([N+](=O)[O-])=CC=C1N1C(C)=NC2=CC=CC=C2C1=O_200.svg"></td>
+            <td><img src="images/COC1=CC(%5BN%2B%5D(=O)%5BO-%5D)=CC=C1N1C(C)=NC2=CC=CC=C2C1=O_200.svg"></td>
         </tr>
         <tr>
             <td>5</td>
@@ -1991,7 +1991,7 @@
             <td>2243815-18-9</td>
             <td>1-methyl-8-nitro-6-(2-fluorophenyl)-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepine</td>
             <td>FNTZ</td>
-            <td><img src="images/CC1=NN=C2CN=C(C3=C(F)C=CC=C3)C3=CC([N+](=O)[O-])=CC=C3N12_200.svg"></td>
+            <td><img src="images/CC1=NN=C2CN=C(C3=C(F)C=CC=C3)C3=CC(%5BN%2B%5D(=O)%5BO-%5D)=CC=C3N12_200.svg"></td>
         </tr>
         <tr>
             <td>2</td>
@@ -2067,7 +2067,7 @@
             <td>1879038-73-9</td>
             <td>(S)-5-(benzhydrylsulfinylmethyl)-1,3-thiazole</td>
             <td><a href="https://en.wikipedia.org/wiki/CE-123" target="_blank">CE-123</a></td>
-            <td><img src="images/O=[S@@](CC1=CN=CS1)C(C1=CC=CC=C1)C1=CC=CC=C1_200.svg"></td>
+            <td><img src="images/O=%5BS%40%40%5D(CC1=CN=CS1)C(C1=CC=CC=C1)C1=CC=CC=C1_200.svg"></td>
         </tr>
         <tr>
             <td>2</td>
