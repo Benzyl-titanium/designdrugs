@@ -1,18 +1,15 @@
+# 简介
+
+设计药物是与管制物质的结构或功能的类似物，旨在模仿母体药物的药理作用，同时规避法律监管等。但还有许多其他的新型精神活性物质 ，可被视为设计药物的一部分。设计药物亦可称为设计师药物，狡诈家药物等。
+
 ## 结构式一览
 
 ![scouv](imgs/scouv.jpg)
 
-## 表格链接
+## 表格
 
-* https://biantai.pages.dev/designdrugs
-* https://benzyl-titanium.pages.dev/posts/drug/designdrugs/
-
-### 功能
-
-* CAS号，英文名，备注，结构式一一对应表格，备注添加了wiki链接  
-![example](imgs/example.png)  
-* 添加了分类
-![classify](imgs/classify.png)  
+* [designdrugs.md](designdrugs.md)
+* https://benzyl-titanium.top/posts/drug/designdrugs
 
 ## 结构式文件
 
@@ -22,4 +19,4 @@ chemdraw的cdx和kingdraw的kdx
 
 ## 致谢
 
-* [smilesDrawer](https://github.com/reymond-group/smilesDrawer)
+* [smilesDrawer](https://github.com/Benzyl-titanium/smilesDrawer)
