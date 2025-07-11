@@ -4,7 +4,7 @@
 
 ## 结构式一览
 
-![scouv](imgs/scouv.jpg)
+![designdrugs](imgs/designdrugs.jpg)
 
 ## 表格
 
