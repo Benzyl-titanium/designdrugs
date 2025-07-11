@@ -15,7 +15,7 @@
 
 chemdraw的cdx和kingdraw的kdx
 
-* [scouv.zip](https://github.com/Benzyl-titanium/designdrugs/releases/download/v25.05.12/scouv.zip)
+* [designdrugs.zip](https://github.com/Benzyl-titanium/designdrugs/raw/main/designdrugs.zip)
 
 ## 致谢
 
