@@ -2044,10 +2044,18 @@
         </tr>
         <tr>
             <td>1</td>
+            <td><del>84962-75-4</del></td>
+            <td><del>ethyl 3-[1-(4-fluorophenyl)ethyl]imidazole-4-carboxylate</del></td>
+            <td><del>Flutomidate</del></td>
+            <td><img src="images/CCOC(=O)C1=CN=CN1C(C)C1=CC=C(F)C=C1_200.svg"></td>
+        </tr>
+        <tr>
+            <td>2</td>
             <td>801156-47-8</td>
             <td>tert-butyl 3-(1-phenylethyl)imidazole-4-carboxylate</td>
             <td>tert-Butomidate</td>
             <td><img src="images/CC(C1=CC=CC=C1)N1C=NC=C1C(=O)OC(C)(C)C_200.svg"></td>
+        </tr>
     </tbody>
 </table>
 
