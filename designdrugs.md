@@ -787,7 +787,7 @@
             <td>751-01-9</td>
             <td>7,8-didehydro-4,5α-epoxy-14-cinnamoyl-3-methoxy-17-methylmorphinan-6-one</td>
             <td><a href="https://en.wikipedia.org/wiki/14-Cinnamoyloxycodeinone" target="_blank">14-Cinnamoyloxycodeinone</a></td>
-            <td></td>
+            <td><img src="images/4R4aS7aR12bS-9-methoxy-3-methyl-7-oxo-247a13-tetrahydro-1H-412-methanobenzofuro32-eisoquinolin-4a-yl_E-3-phenylprop-2-enoate_2D_structure.png"></td>
         </tr>
         <tr>
             <td>6</td>
@@ -1095,14 +1095,14 @@
             <td>181139-62-8</td>
             <td>(6aR,9R,10aR)-3-[(E)-hept-1-enyl]-9-(hydroxymethyl)-<br>6,6-dimethyl-6a,7,8,9,10,10a-hexahydrobenzo[c]chromen-1-ol</td>
             <td><a href="https://en.wikipedia.org/wiki/AM-905" target="_blank">AM-905</a></td>
-            <td></td>
+            <td><img src="images/6aR9R10aR-3-E-hept-1-enyl-9-hydroxymethyl-66-dimethyl-6a7891010a-hexahydrobenzocchromen-1-ol_2D_structure.png"></td>
         </tr>
         <tr>
             <td>7</td>
             <td>587023-54-9</td>
             <td>(6S,6aR,9R,10aR)-9-(hydroxymethyl)-6-(3-hydroxyprop-1-enyl)-6-methyl-<br>3-(2-methyloctan-2-yl)-6a,7,8,9,10,10a-hexahydrobenzo[c]chromen-1-ol</td>
             <td>AM-4043</td>
-            <td></td>
+            <td><img src="images/6S6aR9R10aR-9-hydroxymethyl-6-E-3-hydroxyprop-1-enyl-6-methyl-3-2-methyloctan-2-yl-6a7891010a-hexahydrobenzocchromen-1-ol_2D_structure.png"></td>
         </tr>
         <tr>
             <td>8</td>
