@@ -839,10 +839,10 @@
             <td><img src="images/CC(C1=CC=C(Cl)C=C1)N1CCC2(CC1)C(=O)NCN2C1=CC=CC=C1_200.svg"></td>
         </tr>
         <tr>
-            <td>2</td>
-            <td>863513-91-1</td>
-            <td>(1r,4r)-6'-Fluoro-N,N-dimethyl-4-phenyl-4',9'-dihydro-3'H-spiro[cyclohexane-1,1'-pyrano<[3,4-b]indol]-4-amine</td>
-            <td><a href="https://en.wikipedia.org/wiki/Cebranopadol" target="_blank">GRT-6005</a></td>
+            <td><del>2</del></td>
+            <td><del>863513-91-1</del></td>
+            <td><del>(1r,4r)-6'-Fluoro-N,N-dimethyl-4-phenyl-4',9'-dihydro-3'H-spiro[cyclohexane-1,1'-pyrano<[3,4-b]indol]-4-amine</del></td>
+            <td><a href="https://en.wikipedia.org/wiki/Cebranopadol" target="_blank"><del>GRT-6005</del></a></td>
             <td><img src="images/CN(C)%5BC%40%5D1(C2=CC=CC=C2)CC%5BC%40%5D2(CC1)OCCC1C3=CC(F)=CC=C3NC12_200.svg"></td>
         </tr>
         <tr>
