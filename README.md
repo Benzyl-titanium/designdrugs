@@ -8,18 +8,16 @@
 
 ## 表格
 
-* [github](designdrugs.md)
+* [github](docs/designdrugs.md)
 * <a href="https://benzyl-titanium.pages.dev/posts/drug/designdrugs" target="_blank">blog</a>
 
 ## 结构式文件
 
-chemdraw的cdx和kingdraw的kdx
-
-* [designdrugs.zip](https://github.com/Benzyl-titanium/designdrugs/raw/main/designdrugs.zip)
+* [chemdraw的cdx和kingdraw的kdx](https://github.com/Benzyl-titanium/designdrugs/raw/main/docs/designdrugs.zip)
 
 ## 致谢
 
-* [smilesDrawer](https://github.com/Benzyl-titanium/smilesDrawer)
+* [smilesDrawer](https://github.com/biantailab/smilesDrawer)
 
 ## 许可
 
