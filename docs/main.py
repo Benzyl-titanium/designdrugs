@@ -21,7 +21,7 @@ logger = logging.getLogger(__name__)
 
 app = FastAPI()
 
-images_dir = Path("./designdrugs/images").resolve()
+images_dir = Path("./docs/images").resolve()
 try:
     images_dir.mkdir(exist_ok=True, parents=True)
     logger.info(f"Images directory created/verified at: {images_dir}")
