@@ -4,7 +4,7 @@
 
 ## 结构式一览
 
-![designdrugs](imgs/designdrugs.jpg)
+![designdrugs](assets/designdrugs.jpg)
 
 ## 表格
 
