@@ -9,11 +9,11 @@
 ## 表格
 
 * [github](docs/designdrugs.md)
-* <a href="https://benzyl-titanium.pages.dev/posts/drug/designdrugs" target="_blank">blog</a>
+* <a href="https://benzyl-titanium.pages.dev/posts/drug/designdrugs/" target="_blank">blog</a>
 
 ## 结构式文件
 
-* [chemdraw的cdx和kingdraw的kdx](https://github.com/Benzyl-titanium/designdrugs/raw/main/docs/designdrugs.zip)
+* [chemdraw的cdx和kingdraw的kdx](https://github.com/Benzyl-titanium/designdrugs/raw/main/assets/designdrugs.zip)
 
 ## 致谢
 

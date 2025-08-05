@@ -292,6 +292,20 @@
             <td><a href="https://en.wikipedia.org/wiki/3C-BZ" target="_blank">3C-BZ</a></td>
             <td><img src="images/COC1=C(OCC2=CC=CC=C2)C(OC)=CC(CC(C)N)=C1_200.svg"></td>
         </tr>
+        <tr>
+            <td>5</td>
+            <td>149977-81-1</td>
+            <td>1-thiophen-3-ylpropan-2-amine</td>
+            <td>3-Thienoamphetamine</td>
+            <td><img src="images/CC%28N%29CC1%3DCSC%3DC1_200.svg"></td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>857521-94-9</td>
+            <td>N-methyl-1-thiophen-3-ylpropan-2-amine</td>
+            <td>3-MPA</td>
+            <td><img src="images/CNC%28C%29CC1%3DCSC%3DC1_200.svg"></td>
+        </tr>
     </tbody>
 </table>
 
