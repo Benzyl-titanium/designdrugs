@@ -28,7 +28,7 @@
     <li><a href="#类利非他明">类利非他明</a></li>
     <li><a href="#取代苄基哌嗪">取代苄基哌嗪</a></li>
     <li><a href="#取代苯基哌嗪">取代苯基哌嗪</a></li>
-    <li><a href="#取代甲卡西酮">取代甲卡西酮</a></li>
+    <li><a href="#取代卡西酮">取代卡西酮</a></li>
     <li><a href="#取代印满">取代印满</a></li>
     <li><a href="#类-mda">类MDA</a></li>
     <li><a href="#类-mdma">类MDMA</a></li>
@@ -1569,7 +1569,7 @@
     </tbody>
 </table>
 
-# 取代甲卡西酮
+# 取代卡西酮
 
 <table>
     <tbody>
@@ -1586,6 +1586,13 @@
             <td>1-(2-chlorophenyl)-2-(methylamino)propan-1-one</td>
             <td>2-CMC</td>
             <td><img src="images/CNC(C)C(=O)C1=CC=CC=C1Cl_200.svg"></td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>779974-89-9</td>
+            <td>2-(ethylamino)-1-phenylpentan-1-one</td>
+            <td>NEP</td>
+            <td><img src="images/CCCC%28NCC%29C%28%3DO%29C1%3DCC%3DCC%3DC1_200.svg"></td>
         </tr>
     </tbody>
 </table>
@@ -1740,6 +1747,13 @@
             <td>1-(2,3-dihydro-1-benzofuran-6-yl)-N-methylpropan-2-amine</td>
             <td><a href="https://en.wikipedia.org/wiki/6-MAPDB" target="_blank">6-MAPDB</a></td>
             <td><img src="images/CC(CC1=CC2=C(CCO2)C=C1)NC_200.svg"></td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td>2230716-98-8</td>
+            <td>1-(7-methoxy-1,3-benzodioxol-5-yl)-2-(methylamino)propan-1-one</td>
+            <td><a href="https://en.wikipedia.org/wiki/5-Methoxymethylone" target="_blank">2-A1MP<br>βk-MMDMA</a></td>
+            <td><img src="images/CNC%28C%29C%28%3DO%29C1%3DCC2%3DC%28OCO2%29C%28OC%29%3DC1_200.svg"></td>
         </tr>
     </tbody>
 </table>
