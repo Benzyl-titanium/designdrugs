@@ -1,13 +1,21 @@
 > [!TIP]
 > 移动端打开桌面版网站才能更好查看  
-> 备注添加了 wiki 链接，~~中划线~~表示已被列管
+> 备注添加了 wiki 链接
+
+## 内容
+
+主要收集那些未被列入《药用类麻醉药品目录》，《药用类精神药品目录》，《非药用类麻醉药品和精神药品目录》的化合物，关于这些目录里的化合物可以查看[管制药品结构式目录（2025 年版）](https://github.com/Benzyl-titanium/Structural-formula)，<del>中划线</del>的化合物表示截至最后更新日期已被列管
 
 ## 导航
 
 <ul class="nav-list">
     <li><a href="#2c-x">2C-x</a></li>
+    <li><a href="#25x-nbx">25x-NBx</a></li>
     <li><a href="#dox">DOx</a></li>
-    <li><a href="#单胺杂项">单胺杂项</a></li>
+    <li><a href="#类麦司卡林">类麦司卡林</a></li>
+    <li><a href="#3c-x">3C-x</a></li>
+    <li><a href="#4c-x">4C-x</a></li>
+    <li><a href="#ψ-x">Ψ-x</a></li>
     <li><a href="#xai">xAI</a></li>
     <li><a href="#xlsx">xLSx</a></li>
     <li><a href="#取代色胺">取代色胺</a></li>
@@ -24,23 +32,26 @@
     <li><a href="#合成大麻素">合成大麻素</a></li>
     <li><a href="#xpcx">xPCx</a></li>
     <li><a href="#类氯胺酮">类氯胺酮</a></li>
-    <li><a href="#nmda-拮抗剂">NMDA拮抗剂</a></li>
+    <li><a href="#nmda拮抗剂">NMDA拮抗剂</a></li>
     <li><a href="#类利非他明">类利非他明</a></li>
     <li><a href="#取代苄基哌嗪">取代苄基哌嗪</a></li>
     <li><a href="#取代苯基哌嗪">取代苯基哌嗪</a></li>
     <li><a href="#取代卡西酮">取代卡西酮</a></li>
     <li><a href="#取代印满">取代印满</a></li>
-    <li><a href="#类-mda">类MDA</a></li>
-    <li><a href="#类-mdma">类MDMA</a></li>
+    <li><a href="#类mda">类MDA</a></li>
+    <li><a href="#类mdma">类MDMA</a></li>
+    <li><a href="#2-xapb">2-xAPB</a></li>
     <li><a href="#xph">xPH</a></li>
     <li><a href="#xd2pm">xD2PM</a></li>
-    <li><a href="#取代甲基苯丙胺">取代甲基苯丙胺</a></li>
+    <li><a href="#类苯丙胺">类苯丙胺</a></li>
     <li><a href="#xpm">xPM</a></li>
     <li><a href="#类甲喹酮">类甲喹酮</a></li>
     <li><a href="#bzds">BZDs</a></li>
-    <li><a href="#类-bzds">类BZDs</a></li>
+    <li><a href="#类bzds">类BZDs</a></li>
     <li><a href="#取代依托咪酯">取代依托咪酯</a></li>
     <li><a href="#类莫达非尼">类莫达非尼</a></li>
+    <li><a href="#亚硝酸x酯">亚硝酸x酯</a></li>
+    <li><a href="#类可卡因">类可卡因</a></li>
 </ul>
 
 # 2C-x
@@ -123,6 +134,69 @@
             <td>2-(4-Bromo-2,3,6,7-tetrahydrofuro[2,3-f][1]benzofuran-8-yl)ethanamine</td>
             <td><a href="https://en.wikipedia.org/wiki/2C-B-FLY" target="_blank">2C-B-FLY</a></td>
             <td><img src="images/NCCC1=C2OCCC2=C(Br)C2=C1CCO2_200.svg"></td>
+        </tr>
+         <tr>
+            <td>11</td>
+            <td>807631-09-0</td>
+            <td>2-amino-1-(4-bromo-2,5-dimethoxyphenyl)ethanone</td>
+            <td><a href="https://en.wikipedia.org/wiki/%CE%92k-2C-B" target="_blank">βk-2C-B</a></td>
+            <td><img src="images/C1C%28Br%29%3DC%28OC%29C%3DC%28C%28%3DO%29CN%29C%3D1OC_200.svg"></td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td>261789-00-8</td>
+            <td>2-(2,5-dimethoxy-4-nitrophenyl)ethanamine</td>
+            <td><a href="https://en.wikipedia.org/wiki/2C-N" target="_blank">2C-N</a></td>
+            <td><img src="images/C1%28%5BN%2B%5D%28%5BO-%5D%29%3DO%29C%3DC%28OC%29C%28CCN%29%3DCC%3D1OC_200.svg"></td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td>&nbsp;</td>
+            <td>2-(2,4,5-trichloro-3,6-dimethoxyphenyl)ethanamine</td>
+            <td>2C-C-3</td>
+            <td><img src="images/C1%28Cl%29C%28CCN%29%3DC%28OC%29C%28Cl%29%3DC%28Cl%29C%3D1OC_200.svg"></td>
+        </tr>
+    </tbody>
+</table>
+
+# 25x-NBx
+
+<table>
+    <tbody>
+        <tr>
+            <td width="40"><strong>序号</strong></td>
+            <td width="105"><strong>CAS号</strong></td>
+            <td><strong>英文名</strong></td>
+            <td><strong>备注</strong></td>
+            <td><strong>结构式</strong></td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>1391487-99-2</td>
+            <td>2-(4-bromo-2,5-dimethoxyphenyl)-N-[(2-fluorophenyl)methyl]ethanamine</td>
+            <td><a href="https://en.wikipedia.org/wiki/25B-NBF" target="_blank">25B-NBF</a></td>
+            <td><img src="images/C1%28OC%29C%28Br%29%3DCC%28OC%29%3DC%28CCNCC2C%3DCC%3DCC%3D2F%29C%3D1_200.svg"></td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>1335331-46-8</td>
+            <td>2-[[2-(4-bromo-2,5-dimethoxyphenyl)ethylamino]methyl]phenol</td>
+            <td><a href="https://en.wikipedia.org/wiki/25B-NBOH" target="_blank">25B-NBOH</a></td>
+            <td><img src="images/C1%28OC%29C%28Br%29%3DCC%28OC%29%3DC%28CCNCC2C%3DCC%3DCC%3D2O%29C%3D1_200.svg"></td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>1391497-81-6</td>
+            <td>N-(1,3-benzodioxol-5-ylmethyl)-2-(4-iodo-2,5-dimethoxyphenyl)ethanamine</td>
+            <td><a href="https://en.wikipedia.org/wiki/25I-NB34MD" target="_blank">25I-NB34MD</a></td>
+            <td><img src="images/C1%28%3DCC%28CCNCC2%3DCC%3DC3OCOC3%3DC2%29%3DC%28OC%29C%3DC1I%29OC_200.svg"></td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>919797-20-9</td>
+            <td>2-[[2-(4-iodo-2,5-dimethoxyphenyl)ethylamino]methyl]phenol</td>
+            <td><a href="https://en.wikipedia.org/wiki/25I-NBOH" target="_blank">25I-NBOH</a></td>
+            <td><img src="images/C1%28%3DCC%28CCNCC2%3DCC%3DCC%3DC2O%29%3DC%28OC%29C%3DC1I%29OC_200.svg"></td>
         </tr>
     </tbody>
 </table>
@@ -253,7 +327,7 @@
     </tbody>
 </table>
 
-# 单胺杂项
+# 类麦司卡林
 
 <table>
     <tbody>
@@ -280,31 +354,87 @@
         </tr>
         <tr>
             <td>3</td>
-            <td>52842-59-8</td>
-            <td>1-(2,5-dimethoxy-4-methylphenyl)butan-2-amine</td>
-            <td><a href="https://en.wikipedia.org/wiki/4C-D" target="_blank">4C-D</a></td>
-            <td><img src="images/CCC(N)CC1=CC(OC)=C(C)C=C1OC_200.svg"></td>
+            <td>39201-75-7</td>
+            <td>2-(3,5-dimethoxy-4-prop-2-enoxyphenyl)ethanamine</td>
+            <td><a href="https://en.wikipedia.org/wiki/Allylescaline" target="_blank">Allylescaline</a></td>
+            <td><img src="images/COC1C%28OCC%3DC%29%3DC%28OC%29C%3DC%28CCN%29C%3D1_200.svg"></td>
+        </tr>
+    </tbody>
+</table>
+
+# 3C-x
+
+<table>
+    <tbody>
+        <tr>
+            <td width="40"><strong>序号</strong></td>
+            <td width="105"><strong>CAS号</strong></td>
+            <td><strong>英文名</strong></td>
+            <td><strong>备注</strong></td>
+            <td><strong>结构式</strong></td>
         </tr>
         <tr>
-            <td>4</td>
+            <td>1</td>
             <td>147947-26-0</td>
             <td>1-[4-(benzyloxy)-3,5-dimethoxyphenyl]propan-2-amine</td>
             <td><a href="https://en.wikipedia.org/wiki/3C-BZ" target="_blank">3C-BZ</a></td>
             <td><img src="images/COC1=C(OCC2=CC=CC=C2)C(OC)=CC(CC(C)N)=C1_200.svg"></td>
         </tr>
         <tr>
-            <td>5</td>
-            <td>149977-81-1</td>
-            <td>1-thiophen-3-ylpropan-2-amine</td>
-            <td>3-Thienoamphetamine</td>
-            <td><img src="images/CC%28N%29CC1%3DCSC%3DC1_200.svg"></td>
+            <td>2</td>
+            <td>146849-92-5</td>
+            <td>1-(4-ethoxy-3,5-dimethoxyphenyl)propan-2-amine</td>
+            <td><a href="https://en.wikipedia.org/wiki/3C-E" target="_blank">3C-E</a></td>
+            <td><img src="images/C1C%28OC%29%3DC%28OCC%29C%28OC%29%3DCC%3D1CC%28C%29N_200.svg"></td>
+        </tr>
+    </tbody>
+</table>
+
+# 4C-x
+
+<table>
+    <tbody>
+        <tr>
+            <td width="40"><strong>序号</strong></td>
+            <td width="105"><strong>CAS号</strong></td>
+            <td><strong>英文名</strong></td>
+            <td><strong>备注</strong></td>
+            <td><strong>结构式</strong></td>
         </tr>
         <tr>
-            <td>6</td>
-            <td>857521-94-9</td>
-            <td>N-methyl-1-thiophen-3-ylpropan-2-amine</td>
-            <td>3-MPA</td>
-            <td><img src="images/CNC%28C%29CC1%3DCSC%3DC1_200.svg"></td>
+            <td>1</td>
+            <td>52842-59-8</td>
+            <td>1-(2,5-dimethoxy-4-methylphenyl)butan-2-amine</td>
+            <td><a href="https://en.wikipedia.org/wiki/4C-D" target="_blank">4C-D</a></td>
+            <td><img src="images/CCC(N)CC1=CC(OC)=C(C)C=C1OC_200.svg"></td>
+        </tr>
+    </tbody>
+</table>
+
+# Ψ-x
+
+<table>
+    <tbody>
+        <tr>
+            <td width="40"><strong>序号</strong></td>
+            <td width="105"><strong>CAS号</strong></td>
+            <td><strong>英文名</strong></td>
+            <td><strong>备注</strong></td>
+            <td><strong>结构式</strong></td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>15402-79-6</td>
+            <td>1-(2,4,6-trimethoxyphenyl)propan-2-amine</td>
+            <td><a href="https://en.wikipedia.org/wiki/2,4,6-Trimethoxyamphetamine" target="_blank">2,4,6-TMA(TMA-6, ψ-TMA-2)</a></td>
+            <td><img src="images/C1C%28OC%29%3DCC%28OC%29%3DC%28CC%28C%29N%29C%3D1OC_200.svg"></td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>80888-36-4</td>
+            <td>1-(2,6-dimethoxy-4-methylphenyl)propan-2-amine</td>
+            <td><a href="https://en.wikipedia.org/wiki/%CE%A8-DOM" target="_blank">ψ-DOM</a></td>
+            <td><img src="images/COC1%3DC%28CC%28N%29C%29C%28OC%29%3DCC%28C%29%3DC1_200.svg"></td>
         </tr>
     </tbody>
 </table>
@@ -564,6 +694,48 @@
             <td>5-Methoxy-3-{[(2R)-1-methylpyrrolidin-2-yl]methyl}-1H-indole</td>
             <td><a href="https://en.wikipedia.org/wiki/5-MeO-MPMI" target="_blank">5-MeO-MPMI</a></td>
             <td><img src="images/COC1=CC=C2NC=C(C%5BC%40H%5D3CCCN3C)C2=C1_200.svg"></td>
+        </tr>
+        <tr>
+            <td>25</td>
+            <td>1445751-71-2</td>
+            <td>[3-[2-[bis(prop-2-enyl)amino]ethyl]-1H-indol-4-yl] acetate</td>
+            <td><a href="https://en.wikipedia.org/wiki/4-AcO-DALT" target="_blank">4-AcO-DALT</a></td>
+            <td><img src="images/C%3DCCN%28CCC1C2C%28%3DCC%3DCC%3D2OC%28%3DO%29C%29NC%3D1%29CC%3DC_200.svg"></td>
+        </tr>
+        <tr>
+            <td>26</td>
+            <td>96096-52-5</td>
+            <td>N-[2-(1H-indol-3-yl)ethyl]-N-methylpropan-2-amine</td>
+            <td><a href="https://en.wikipedia.org/wiki/MiPT" target="_blank">MiPT</a></td>
+            <td><img src="images/CC%28C%29N%28CCC1C2C%28%3DCC%3DCC%3D2%29NC%3D1%29C_200.svg"></td>
+        </tr>
+        <tr>
+            <td>27</td>
+            <td>850032-66-5</td>
+            <td>N-ethyl-N-[2-(5-methoxy-1H-indol-3-yl)ethyl]propan-2-amine</td>
+            <td><a href="https://en.wikipedia.org/wiki/5-MeO-EiPT" target="_blank">5-MeO-EiPT</a></td>
+            <td><img src="images/COC1C%3DC2C%28NC%3DC2CCN%28CC%29C%28C%29C%29%3DCC%3D1_200.svg"></td>
+        </tr>
+        <tr>
+            <td>28</td>
+            <td>850032-67-6</td>
+            <td>N-ethyl-N-[2-(5-methoxy-1H-indol-3-yl)ethyl]propan-1-amine</td>
+            <td><a href="https://en.wikipedia.org/wiki/5-MeO-EPT" target="_blank">5-MeO-EPT</a></td>
+            <td><img src="images/COC1C%3DC2C%28NC%3DC2CCN%28CC%29CCC%29%3DCC%3D1_200.svg"></td>
+        </tr>
+        <tr>
+            <td>29</td>
+            <td>14780-24-6</td>
+            <td>N-[2-(1H-indol-3-yl)ethyl]-N-propan-2-ylpropan-2-amine</td>
+            <td><a href="https://en.wikipedia.org/wiki/DiPT" target="_blank">DiPT</a></td>
+            <td><img src="images/C1%3DCC%3DC2NC%3DC%28CCN%28C%28C%29C%29C%28C%29C%29C2%3DC1_200.svg"></td>
+        </tr>
+        <tr>
+            <td>30</td>
+            <td>69496-75-9</td>
+            <td>N-[2-(5-methoxy-1H-indol-3-yl)ethyl]-N-propylpropan-1-amine</td>
+            <td><a href="https://en.wikipedia.org/wiki/5-MeO-DPT" target="_blank">5-MeO-DPT</a></td>
+            <td><img src="images/C1%28OC%29C%3DC2C%28NC%3DC2CCN%28CCC%29CCC%29%3DCC%3D1_200.svg"></td>
         </tr>
     </tbody>
 </table>
@@ -1013,6 +1185,13 @@
             <td><a href="https://en.wikipedia.org/wiki/Ciramadol" target="_blank">Ciramadol(WY-15705)</a></td>
             <td><img src="images/CN(C)%5BC%40H%5D(C1=CC=CC(O)=C1)%5BC%40H%5D1CCCC%5BC%40H%5D1O_200.svg"></td>
         </tr>
+        <tr>
+            <td>4</td>
+            <td>80456-81-1</td>
+            <td>3-[(1R,2R)-2-[(dimethylamino)methyl]-1-hydroxycyclohexyl]phenol</td>
+            <td><a href="" target="_blank">Desmetramadol(O-DSMT)</a></td>
+            <td><img src="images/CN%28CC1C%28O%29%28C2C%3DC%28O%29C%3DCC%3D2%29CCCC1%29C_200.svg"></td>
+        </tr>
     </tbody>
 </table>
 
@@ -1359,7 +1538,7 @@
     </tbody>
 </table>
 
-# NMDA 拮抗剂
+# NMDA拮抗剂
 
 <table>
     <tbody>
@@ -1531,6 +1710,20 @@
             <td><a href="https://en.wikipedia.org/wiki/3-Methylbenzylpiperazine" target="_blank">3-Me-BZP</a></td>
             <td><img src="images/CC1=CC(=CC=C1)CN2CCNCC2_200.svg"></td>
         </tr>
+        <tr>
+            <td>5</td>
+            <td>1093211-85-8</td>
+            <td>1-[(2,2-difluoro-1,3-benzodioxol-5-yl)methyl]piperazine</td>
+            <td>DF-MDBP</td>
+            <td><img src="images/C1NCCN%28CC2C%3DCC3OC%28F%29%28F%29OC%3D3C%3D2%29C1_200.svg"></td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>62226-74-8</td>
+            <td>1-benzyl-4-methylpiperazine</td>
+            <td><a href="https://en.wikipedia.org/wiki/Methylbenzylpiperazine" target="_blank">MBZP</a></td>
+            <td><img src="images/C%28C1C%3DCC%3DCC%3D1%29N1CCN%28C%29CC1_200.svg"></td>
+        </tr>
     </tbody>
 </table>
 
@@ -1566,6 +1759,13 @@
             <td><a href="https://en.wikipedia.org/wiki/3C-PEP" target="_blank">3C-PEP</a></td>
             <td><img src="images/ClC1=CC=CC(N2CCN(CCC3=CC=CC=C3)CC2)=C1_200.svg"></td>
         </tr>
+        <tr>
+            <td>4</td>
+            <td>2252-63-3</td>
+            <td>1-(4-fluorophenyl)piperazine</td>
+            <td><a href="https://en.wikipedia.org/wiki/Para-Fluorophenylpiperazine" target="_blank">pFPP(4-FPP)</a></td>
+            <td><img src="images/C1%28F%29C%3DCC%28N2CCNCC2%29%3DCC%3D1_200.svg"></td>
+        </tr>
     </tbody>
 </table>
 
@@ -1593,6 +1793,20 @@
             <td>2-(ethylamino)-1-phenylpentan-1-one</td>
             <td>NEP</td>
             <td><img src="images/CCCC%28NCC%29C%28%3DO%29C1%3DCC%3DCC%3DC1_200.svg"></td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>19437-20-8</td>
+            <td>2-(1-oxo-1-phenylpropan-2-yl)isoindole-1,3-dione</td>
+            <td><a href="https://en.wikipedia.org/wiki/Phthalimidopropiophenone" target="_blank">Phthalimidopropiophenone</a></td>
+            <td><img src="images/CC%28C%28C1C%3DCC%3DCC%3D1%29%3DO%29N1C%28%3DO%29C2C%3DCC%3DCC%3D2C1%3DO_200.svg"></td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>802301-79-7</td>
+            <td>1-(3,4-dimethoxyphenyl)-2-(methylamino)propan-1-one</td>
+            <td>3,4-Dimethoxymethcathinone</td>
+            <td><img src="images/CNC%28C%28C1C%3DC%28OC%29C%28OC%29%3DCC%3D1%29%3DO%29C_200.svg"></td>
         </tr>
     </tbody>
 </table>
@@ -1625,7 +1839,7 @@
     </tbody>
 </table>
 
-# 类 MDA
+# 类MDA
 
 <table>
     <tbody>
@@ -1664,10 +1878,17 @@
             <td><a href="https://en.wikipedia.org/wiki/5-APDI" target="_blank">5-APDI</a></td>
             <td><img src="images/CC(N)CC1=CC2=C(C=C1)CCC2_200.svg"></td>
         </tr>
+        <tr>
+            <td>5</td>
+            <td>21005-63-0</td>
+            <td>1-(1H-indol-6-yl)propan-2-amine</td>
+            <td><a href="https://en.wikipedia.org/wiki/6-(2-Aminopropyl)indole" target="_blank">6-API(6-IT)</a></td>
+            <td><img src="images/CC%28CC1C%3DCC2C%3DCNC%3D2C%3D1%29N_200.svg"></td>
+        </tr>
     </tbody>
 </table>
 
-# 类 MDMA
+# 类MDMA
 
 <table>
     <tbody>
@@ -1754,6 +1975,48 @@
             <td>1-(7-methoxy-1,3-benzodioxol-5-yl)-2-(methylamino)propan-1-one</td>
             <td><a href="https://en.wikipedia.org/wiki/5-Methoxymethylone" target="_blank">2-A1MP<br>βk-MMDMA</a></td>
             <td><img src="images/CNC%28C%29C%28%3DO%29C1%3DCC2%3DC%28OCO2%29C%28OC%29%3DC1_200.svg"></td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td>65033-29-6</td>
+            <td>1-(1,3-benzodioxol-5-yl)-N-benzylpropan-2-amine</td>
+            <td><a href="https://en.wikipedia.org/wiki/Methylenedioxybenzylamphetamine" target="_blank">MDBZ</a></td>
+            <td><img src="images/C%28C1C%3DCC%3DCC%3D1%29NC%28CC1C%3DC2C%28OCO2%29%3DCC%3D1%29C_200.svg"></td>
+        </tr>
+    </tbody>
+</table>
+
+# 2-xAPB
+
+<table>
+    <tbody>
+        <tr>
+            <td width="40"><strong>序号</strong></td>
+            <td width="105"><strong>CAS号</strong></td>
+            <td><strong>英文名</strong></td>
+            <td><strong>备注</strong></td>
+            <td><strong>结构式</strong></td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>30455-73-3</td>
+            <td>1-(1-benzofuran-2-yl)propan-2-amine</td>
+            <td><a href="https://en.wikipedia.org/wiki/2-APB_(entactogen)" target="_blank">2-APB</a></td>
+            <td><img src="images/C1C%3DCC2C%3DC%28CC%28C%29N%29OC%3D2C%3D1_200.svg"></td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>806596-15-6</td>
+            <td>1-(1-benzofuran-2-yl)-N-methylpropan-2-amine</td>
+            <td><a href="https://en.wikipedia.org/wiki/2-MAPB" target="_blank">2-MAPB</a></td>
+            <td><img src="images/C1C%3DCC2C%3DC%28CC%28C%29NC%29OC%3D2C%3D1_200.svg"></td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>30455-81-3</td>
+            <td>1-(1-benzofuran-2-yl)-N-ethylpropan-2-amine</td>
+            <td>2-EAPB</td>
+            <td><img src="images/C1C%3DCC2C%3DC%28CC%28C%29NCC%29OC%3D2C%3D1_200.svg"></td>
         </tr>
     </tbody>
 </table>
@@ -1856,7 +2119,7 @@
     </tbody>
 </table>
 
-# 取代甲基苯丙胺
+# 类苯丙胺
 
 <table>
     <tbody>
@@ -1887,6 +2150,41 @@
             <td>3-Phenylbutan-2-amine</td>
             <td><a href="https://en.wikipedia.org/wiki/β-methylamphetamine" target="_blank">β-methylamphetamine</a></td>
             <td><img src="images/CNC(C)C(C)C1=CC=CC=C1_200.svg"></td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>149977-81-1</td>
+            <td>1-thiophen-3-ylpropan-2-amine</td>
+            <td>3-Thienoamphetamine</td>
+            <td><img src="images/CC%28N%29CC1%3DCSC%3DC1_200.svg"></td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>857521-94-9</td>
+            <td>N-methyl-1-thiophen-3-ylpropan-2-amine</td>
+            <td>3-MPA</td>
+            <td><img src="images/CNC%28C%29CC1%3DCSC%3DC1_200.svg"></td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>2055108-04-6</td>
+            <td>1-(4-ethylphenyl)-N-[(2-methoxyphenyl)methyl]propan-2-amine</td>
+            <td><a href="https://en.wikipedia.org/wiki/4-EA-NBOMe" target="_blank">4-EA-NBOMe</a></td>
+            <td><img src="images/C1C%28CC%29%3DCC%3DC%28CC%28C%29NCC2C%3DCC%3DCC%3D2OC%29C%3D1_200.svg"></td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>1178720-66-5</td>
+            <td>N-methyl-1-naphthalen-2-ylpropan-2-amine</td>
+            <td><a href="https://en.wikipedia.org/wiki/Methamnetamine" target="_blank">Methamnetamine(MNA, MNT)</a></td>
+            <td><img src="images/C1C%3DCC2C%3DCC%28CC%28C%29NC%29%3DCC%3D2C%3D1_200.svg"></td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>2385934-39-2</td>
+            <td>tert-butyl N-methyl-N-(1-phenylpropan-2-yl)carbamate</td>
+            <td>t-BOC-Methamphetamine</td>
+            <td><img src="images/C1C%3DC%28CC%28N%28C%28%3DO%29OC%28C%29%28C%29C%29C%29C%29C%3DCC%3D1_200.svg"></td>
         </tr>
     </tbody>
 </table>
@@ -2038,7 +2336,7 @@
     </tbody>
 </table>
 
-# 类 BZDs
+# 类BZDs
 
 <table>
     <tbody>
@@ -2118,6 +2416,111 @@
             <td>(2-Amino-2-oxoethyl)[bis(4-fluorophenyl)methyl]sulfoniumolate</td>
             <td><a href="https://en.wikipedia.org/wiki/Flmodafinil" target="_blank">Flmodafinil</a></td>
             <td><img src="images/NC(=O)CS(=O)C(C1=CC=C(F)C=C1)C1=CC=C(F)C=C1_200.svg"></td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>1613222-54-0</td>
+            <td>2-[bis(4-fluorophenyl)methylsulfinyl]-N-methylacetamide</td>
+            <td><a href="https://en.wikipedia.org/wiki/Modafiendz" target="_blank">Modafiendz</a></td>
+            <td><img src="images/N%28C%29C%28CS%28C%28C1C%3DCC%28F%29%3DCC%3D1%29C1C%3DCC%28F%29%3DCC%3D1%29%3DO%29%3DO_200.svg"></td>
+        </tr>
+    </tbody>
+</table>
+
+# 亚硝酸x酯
+
+<table>
+    <tbody>
+        <tr>
+            <td width="40"><strong>序号</strong></td>
+            <td width="105"><strong>CAS号</strong></td>
+            <td><strong>英文名</strong></td>
+            <td><strong>备注</strong></td>
+            <td><strong>结构式</strong></td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>542-56-3</td>
+            <td>2-methylpropyl nitrite</td>
+            <td><a href="https://en.wikipedia.org/wiki/Isobutyl_nitrite" target="_blank">Isobutyl nitrite</a></td>
+            <td><img src="images/O%3DNOCC%28C%29C_200.svg"></td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>541-42-4</td>
+            <td>propan-2-yl nitrite</td>
+            <td><a href="https://en.wikipedia.org/wiki/Isopropyl_nitrite" target="_blank">Isopropyl nitrite</a></td>
+            <td><img src="images/O%3DNOC%28C%29C_200.svg"></td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>110-46-3</td>
+            <td>3-methylbutyl nitrite</td>
+            <td><a href="https://en.wikipedia.org/wiki/Amyl_nitrite" target="_blank">Amyl nitrite</a></td>
+            <td><img src="images/O%3DNOCCC%28C%29C_200.svg"></td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>540-80-7</td>
+            <td>tert-butyl nitrite</td>
+            <td><a href="https://en.wikipedia.org/wiki/Tert-Butyl_nitrite" target="_blank">tert-Butyl nitrite</a></td>
+            <td><img src="images/O%3DNOC%28C%29%28C%29C_200.svg"></td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>5156-40-1</td>
+            <td>cyclohexyl nitrite</td>
+            <td><a href="https://en.wikipedia.org/wiki/Cyclohexyl_nitrite" target="_blank">Cyclohexyl nitrite</a></td>
+            <td><img src="images/O%3DNOC1CCCCC1_200.svg"></td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>544-16-1</td>
+            <td>butyl nitrite</td>
+            <td><a href="https://en.wikipedia.org/wiki/Butyl_nitrite" target="_blank">Butyl nitrite</a></td>
+            <td><img src="images/O%3DNOCCCC_200.svg"></td>
+        </tr>
+    </tbody>
+</table>
+
+# 取代四氢异喹啉
+
+<table>
+    <tbody>
+        <tr>
+            <td width="40"><strong>序号</strong></td>
+            <td width="105"><strong>CAS号</strong></td>
+            <td><strong>英文名</strong></td>
+            <td><strong>备注</strong></td>
+            <td><strong>结构式</strong></td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>67165-56-4</td>
+            <td>4-(3,4-dichlorophenyl)-7-methoxy-2-methyl-3,4-dihydro-1H-isoquinoline</td>
+            <td><a href="https://en.wikipedia.org/wiki/Diclofensine" target="_blank">Diclofensine</a></td>
+            <td><img src="images/C1C%28OC%29%3DCC%3DC2C%28C3C%3DCC%28Cl%29%3DC%28Cl%29C%3D3%29CN%28C%29CC%3D12_200.svg"></td>
+        </tr>
+    </tbody>
+</table>
+
+# 类可卡因
+
+<table>
+    <tbody>
+        <tr>
+            <td width="40"><strong>序号</strong></td>
+            <td width="105"><strong>CAS号</strong></td>
+            <td><strong>英文名</strong></td>
+            <td><strong>备注</strong></td>
+            <td><strong>结构式</strong></td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>143965-99-5</td>
+            <td>methyl (1R,2S,3S,5S)-3-(3,4-dichlorophenyl)-8-methyl-8-azabicyclo[3.2.1]octane-2-carboxylate</td>
+            <td><a href="https://en.wikipedia.org/wiki/Dichloropane" target="_blank">RTI-111(O-401)</a></td>
+            <td><img src="images/COC%28%5BC%40H%5D1%5BC%40%40H%5D%28C2C%3DCC%28Cl%29%3DC%28Cl%29C%3D2%29C%5BC%40H%5D2N%28C%29%5BC%40%40H%5D1CC2%29%3DO_200.svg"></td>
         </tr>
     </tbody>
 </table>

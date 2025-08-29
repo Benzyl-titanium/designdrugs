@@ -3,6 +3,7 @@ from fastapi.responses import FileResponse, HTMLResponse, Response
 from fastapi.staticfiles import StaticFiles
 from pathlib import Path
 from rdkit import Chem
+from rdkit.Chem.Draw import IPythonConsole
 from rdkit.Chem import Draw
 from rdkit.Chem.Draw import rdMolDraw2D
 import datetime
@@ -20,7 +21,7 @@ logger = logging.getLogger(__name__)
 
 app = FastAPI()
 
-images_dir = Path("./images").resolve()
+images_dir = Path("./docs/images").resolve()
 try:
     images_dir.mkdir(exist_ok=True, parents=True)
     logger.info(f"Images directory created/verified at: {images_dir}")
@@ -76,6 +77,7 @@ def smiles_to_image(smiles):
         path.parent.mkdir(parents=True, exist_ok=True)
         drawer = rdMolDraw2D.MolDraw2DSVG(size, size)
         drawer.drawOptions().clearBackground = True
+        drawer.drawOptions().backgroundColour = None
         drawer.DrawMolecule(mol)
         drawer.FinishDrawing()
         svg = drawer.GetDrawingText()
