@@ -17,7 +17,7 @@
     <li><a href="#4c-x">4C-x</a></li>
     <li><a href="#ψ-x">Ψ-x</a></li>
     <li><a href="#xai">xAI</a></li>
-    <li><a href="#xlsx">xLSx</a></li>
+    <li><a href="#类lsd">类LSD</a></li>
     <li><a href="#取代色胺">取代色胺</a></li>
     <li><a href="#类芬太尼">类芬太尼</a></li>
     <li><a href="#苯并咪唑"><del>苯并咪唑</del></a></li>
@@ -155,6 +155,13 @@
             <td>2-(2,4,5-trichloro-3,6-dimethoxyphenyl)ethanamine</td>
             <td>2C-C-3</td>
             <td><img src="images/C1%28Cl%29C%28CCN%29%3DC%28OC%29C%28Cl%29%3DC%28Cl%29C%3D1OC_200.svg"></td>
+        </tr>
+        <tr>
+            <td>14</td>
+            <td>260809-98-1</td>
+            <td>2-(4-bromofuro[2,3-f][1]benzofuran-8-yl)ethanamine</td>
+            <td><a href="https://en.wikipedia.org/wiki/2C-B-DRAGONFLY" target="_blank">2C-B-DRAGONFLY (2C-B-DFLY)</a></td>
+            <td><img src="images/C1C2C%28%3DC%28Br%29C3C%3DCOC%3D3C%3D2CCN%29OC%3D1_200.svg"></td>
         </tr>
     </tbody>
 </table>
@@ -488,7 +495,7 @@
     </tbody>
 </table>
 
-# xLSx
+# 类LSD
 
 <table>
     <tbody>
@@ -512,6 +519,20 @@
             <td>(6aR,9R)-4-(Cyclopropanecarbonyl)-N,N-diethyl-7-prop-2-enyl-<br>6,6a,8,9-hexahydroindolo[4,3-fg]quinoline-9-carboxamide</td>
             <td>1cP-AL-LAD</td>
             <td><img src="images/C=CCN1C%5BC%40%5D(C(=O)N(CC)CC)C=C2C3=CC=CC4=C3C(=CN4C(=O)C3CC3)C%5BC%40%5D21_200.svg"></td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>4314-63-0</td>
+            <td>[(6aR,9R)-7-methyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinolin-9-yl]-morpholin-4-ylmethanone</td>
+            <td><a href="https://en.wikipedia.org/wiki/LSM-775" target="_blank">LSM-775</a></td>
+            <td><img src="images/O%3DC%28%5BC%40H%5D1CN%28C%29%5BC%40H%5D2C%28c3c4c%28C2%29c%5BnH%5Dc4ccc3%29%3DC1%29N1CCOCC1_200.svg"></td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>478-99-9</td>
+            <td>(6aR,9R)-N-ethyl-7-methyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinoline-9-carboxamide</td>
+            <td><a href="https://en.wikipedia.org/wiki/LAE-32" target="_blank">LAE-32</a></td>
+            <td><img src="images/CCNC%28%5BC%40H%5D1CN%28C%29%5BC%40H%5D2C%28c3c4c%28%5BnH%5Dcc4C2%29ccc3%29%3DC1%29%3DO_200.svg"></td>
         </tr>
     </tbody>
 </table>
@@ -1451,6 +1472,13 @@
             <td><a href="https://en.wikipedia.org/wiki/PCPr" target="_blank">PCPr</a></td>
             <td><img src="images/CCCNC1(C2=CC=CC=C2)CCCCC1_200.svg"></td>
         </tr>
+        <tr>
+            <td>13</td>
+            <td>2201-68-5</td>
+            <td>N-ethyl-1-(4-methoxyphenyl)cyclohexan-1-amine</td>
+            <td>4-MeO-PCE</td>
+            <td><img src="images/C1%28%3DCC%3DC%28C2%28NCC%29CCCCC2%29C%3DC1%29OC_200.svg"></td>
+        </tr>
     </tbody>
 </table>
 
@@ -1807,6 +1835,13 @@
             <td>1-(3,4-dimethoxyphenyl)-2-(methylamino)propan-1-one</td>
             <td>3,4-Dimethoxymethcathinone</td>
             <td><img src="images/CNC%28C%28C1C%3DC%28OC%29C%28OC%29%3DCC%3D1%29%3DO%29C_200.svg"></td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td>81395-70-2</td>
+            <td>2-amino-2-(2-chlorophenyl)-6-hydroxycyclohexan-1-one</td>
+            <td><a href="https://en.wikipedia.org/wiki/Hydroxynorketamine" target="_blank">Hydroxynorketamine(HNK)</a></td>
+            <td><img src="images/C1CC%28C%28%3DO%29C%28C1%29%28C2%3DCC%3DCC%3DC2Cl%29N%29O_200.svg"></td>
         </tr>
     </tbody>
 </table>
