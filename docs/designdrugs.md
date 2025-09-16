@@ -34,6 +34,7 @@
     <li><a href="#类美沙酮">类美沙酮</a></li>
     <li><a href="#合成大麻素">合成大麻素</a></li>
     <li><a href="#xpcx">xPCx</a></li>
+    <li><a href="#类pcp">类PCP</a></li>
     <li><a href="#类氯胺酮">类氯胺酮</a></li>
     <li><a href="#nmda拮抗剂">NMDA拮抗剂</a></li>
     <li><a href="#类利非他明">类利非他明</a></li>
@@ -59,6 +60,7 @@
 
 # 2C-x
 
+<details>
 <table>
     <tbody>
         <tr>
@@ -168,9 +170,11 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 # 25x-NBx
 
+<details>
 <table>
     <tbody>
         <tr>
@@ -210,9 +214,11 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 # DOx
 
+<details>
 <table>
     <tbody>
         <tr>
@@ -336,9 +342,11 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 # 类麦司卡林
 
+<details>
 <table>
     <tbody>
         <tr>
@@ -371,9 +379,11 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 # 3C-x
 
+<details>
 <table>
     <tbody>
         <tr>
@@ -399,9 +409,11 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 # 4C-x
 
+<details>
 <table>
     <tbody>
         <tr>
@@ -420,9 +432,11 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 # Ψ-x
 
+<details>
 <table>
     <tbody>
         <tr>
@@ -448,9 +462,11 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 # xAI
 
+<details>
 <table>
     <tbody>
         <tr>
@@ -497,9 +513,11 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 # 类LSD
 
+<details>
 <table>
     <tbody>
         <tr>
@@ -539,9 +557,11 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 # 取代色胺
 
+<details>
 <table>
     <tbody>
         <tr>
@@ -754,11 +774,20 @@
             <td><a href="https://en.wikipedia.org/wiki/5-Fluoro-DMT" target="_blank">5-fluoro-DMT(5-F-DMT)</a></td>
             <td><img src="images/CN%28CCC1C2C%3DC%28F%29C%3DCC%3D2NC%3D1%29C_200.svg"></td>
         </tr>
+        <tr>
+            <td>30</td>
+            <td>109921-55-3</td>
+            <td>N-[2-(5-methoxy-1H-indol-3-yl)ethyl]propan-2-amine</td>
+            <td><a href="https://en.wikipedia.org/wiki/5-MeO-NiPT" target="_blank">5-MeO-NiPT</a></td>
+            <td><img src="images/COC1C%3DC2C%28%3DCNC2%3DCC%3D1%29CCNC%28C%29C_200.svg"></td>
+        </tr>
     </tbody>
 </table>
+</details>
 
 # x-MPMI
 
+<details>
 <table>
     <tbody>
         <tr>
@@ -791,9 +820,11 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 # x-αMT
 
+<details>
 <table>
     <tbody>
         <tr>
@@ -840,9 +871,11 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 # x-αET
 
+<details>
 <table>
     <tbody>
         <tr>
@@ -889,9 +922,11 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 # 类芬太尼
 
+<details>
 <table>
     <tbody>
         <tr>
@@ -931,9 +966,11 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 # ~~苯并咪唑~~
 
+<details>
 <table>
     <tbody>
         <tr>
@@ -959,9 +996,11 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 # Utopioid
 
+<details>
 <table>
     <tbody>
         <tr>
@@ -1036,9 +1075,11 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 # 新型阿片
 
+<details>
 <table>
     <tbody>
         <tr>
@@ -1078,9 +1119,11 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 # 吗啡喃
 
+<details>
 <table>
     <tbody>
         <tr>
@@ -1155,9 +1198,11 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 # 阿片杂项
 
+<details>
 <table>
     <tbody>
         <tr>
@@ -1225,9 +1270,11 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 # AP
 
+<details>
 <table>
     <tbody>
         <tr>
@@ -1253,9 +1300,11 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 # 类哌替啶
 
+<details>
 <table>
     <tbody>
         <tr>
@@ -1302,9 +1351,11 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 # 类曲马多
 
+<details>
 <table>
     <tbody>
         <tr>
@@ -1344,9 +1395,11 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 # 类美沙酮
 
+<details>
 <table>
     <tbody>
         <tr>
@@ -1386,9 +1439,11 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 # 合成大麻素
 
+<details>
 <table>
     <tbody>
         <tr>
@@ -1505,9 +1560,11 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 # xPCx
 
+<details>
 <table>
     <tbody>
         <tr>
@@ -1610,9 +1667,34 @@
         </tr>
     </tbody>
 </table>
+</details>
+
+# 类PCP
+
+<details>
+<table>
+    <tbody>
+        <tr>
+            <td width="40"><strong>序号</strong></td>
+            <td width="105"><strong>CAS号</strong></td>
+            <td><strong>英文名</strong></td>
+            <td><strong>备注</strong></td>
+            <td><strong>结构式</strong></td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>112726-66-6</td>
+            <td>1-[1-(1-benzothiophen-2-yl)cyclohexyl]piperidine</td>
+            <td><a href="https://en.wikipedia.org/wiki/Benocyclidine" target="_blank">Benocyclidine(BTCP)</a></td>
+            <td><img src="images/S1C%28C2%28N3CCCCC3%29CCCCC2%29%3DCC2C%3DCC%3DCC1%3D2_200.svg"></td>
+        </tr>
+    </tbody>
+</table>
+</details>
 
 # 类氯胺酮
 
+<details>
 <table>
     <tbody>
         <tr>
@@ -1668,7 +1750,7 @@
             <td>7</td>
             <td>&nbsp;</td>
             <td>2-(2-chlorophenyl)-2-[(propan-2-yl)amino]cyclohexan-1-one</td>
-            <td>o-CliPr</td>
+            <td>2-ClXiPr</td>
             <td><img src="images/CC(C)NC1(C2=CC=CC=C2Cl)CCCCC1=O_200.svg"></td>
         </tr>
         <tr>
@@ -1692,11 +1774,27 @@
             <td><a href="https://en.wikipedia.org/wiki/Tiletamine" target="_blank">Tiletamine</a></td>
             <td><img src="images/CCNC1(C2=CC=CS2)CCCCC1=O_200.svg"></td>
         </tr>
+        <tr>
+            <td>11</td>
+            <td>81395-70-2</td>
+            <td>2-amino-2-(2-chlorophenyl)-6-hydroxycyclohexan-1-one</td>
+            <td><a href="https://en.wikipedia.org/wiki/Hydroxynorketamine" target="_blank">Hydroxynorketamine(HNK)</a></td>
+            <td><img src="images/C1CC%28C%28%3DO%29C%28C1%29%28C2%3DCC%3DCC%3DC2Cl%29N%29O_200.svg"></td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td>&nbsp;</td>
+            <td>2-(2-fluorophenyl)-2-[(propan-2-yl)amino]cyclohexan-1-one</td>
+            <td>2-FXiPr</td>
+            <td><img src="images/CC%28NC1%28C%28%3DO%29CCCC1%29C1C%28F%29%3DCC%3DCC%3D1%29C_200.svg"></td>
+        </tr>
     </tbody>
 </table>
+</details>
 
 # NMDA拮抗剂
 
+<details>
 <table>
     <tbody>
         <tr>
@@ -1729,9 +1827,11 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 # 类利非他明
 
+<details>
 <table>
     <tbody>
         <tr>
@@ -1827,9 +1927,11 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 # 取代苄基哌嗪
 
+<details>
 <table>
     <tbody>
         <tr>
@@ -1883,9 +1985,11 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 # 取代苯基哌嗪
 
+<details>
 <table>
     <tbody>
         <tr>
@@ -1925,9 +2029,11 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 # 取代卡西酮
 
+<details>
 <table>
     <tbody>
         <tr>
@@ -1965,18 +2071,13 @@
             <td>3,4-Dimethoxymethcathinone</td>
             <td><img src="images/CNC%28C%28C1C%3DC%28OC%29C%28OC%29%3DCC%3D1%29%3DO%29C_200.svg"></td>
         </tr>
-        <tr>
-            <td>11</td>
-            <td>81395-70-2</td>
-            <td>2-amino-2-(2-chlorophenyl)-6-hydroxycyclohexan-1-one</td>
-            <td><a href="https://en.wikipedia.org/wiki/Hydroxynorketamine" target="_blank">Hydroxynorketamine(HNK)</a></td>
-            <td><img src="images/C1CC%28C%28%3DO%29C%28C1%29%28C2%3DCC%3DCC%3DC2Cl%29N%29O_200.svg"></td>
-        </tr>
     </tbody>
 </table>
+</details>
 
 # 取代印满
 
+<details>
 <table>
     <tbody>
         <tr>
@@ -2002,9 +2103,11 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 # 类MDA
 
+<details>
 <table>
     <tbody>
         <tr>
@@ -2051,9 +2154,11 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 # 类MDMA
 
+<details>
 <table>
     <tbody>
         <tr>
@@ -2149,9 +2254,11 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 # 2-xAPB
 
+<details>
 <table>
     <tbody>
         <tr>
@@ -2184,9 +2291,11 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 # xPH
 
+<details>
 <table>
     <tbody>
         <tr>
@@ -2254,9 +2363,11 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 # xD2PM
 
+<details>
 <table>
     <tbody>
         <tr>
@@ -2282,9 +2393,11 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 # 类苯丙胺
 
+<details>
 <table>
     <tbody>
         <tr>
@@ -2352,9 +2465,11 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 # xPM
 
+<details>
 <table>
     <tbody>
         <tr>
@@ -2401,9 +2516,11 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 # 类甲喹酮
 
+<details>
 <table>
     <tbody>
         <tr>
@@ -2464,9 +2581,11 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 # BZDs
 
+<details>
 <table>
     <tbody>
         <tr>
@@ -2499,9 +2618,11 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 # 类BZDs
 
+<details>
 <table>
     <tbody>
         <tr>
@@ -2520,9 +2641,11 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 # 取代依托咪酯
 
+<details>
 <table>
     <tbody>
         <tr>
@@ -2548,9 +2671,11 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 # 类莫达非尼
 
+<details>
 <table>
     <tbody>
         <tr>
@@ -2590,9 +2715,11 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 # 亚硝酸x酯
 
+<details>
 <table>
     <tbody>
         <tr>
@@ -2646,9 +2773,11 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 # 取代四氢异喹啉
 
+<details>
 <table>
     <tbody>
         <tr>
@@ -2667,9 +2796,11 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 # 类可卡因
 
+<details>
 <table>
     <tbody>
         <tr>
@@ -2688,3 +2819,4 @@
         </tr>
     </tbody>
 </table>
+</details>
