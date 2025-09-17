@@ -19,6 +19,11 @@
     <li><a href="#xai">xAI</a></li>
     <li><a href="#类lsd">类LSD</a></li>
     <li><a href="#取代色胺">取代色胺</a></li>
+    <li><a href="#4-oh-取代色胺">4-OH-取代色胺</a></li>
+    <li><a href="#4-aco-取代色胺">4-AcO-取代色胺</a></li>
+    <li><a href="#5-meo-取代色胺">5-MeO-取代色胺</a></li>
+    <li><a href="#5-x-取代色胺">5-X-取代色胺</a></li>
+    <li><a href="#nb-取代色胺">NB-取代色胺</a></li>
     <li><a href="#x-mpmi">x-MPMI</a></li>
     <li><a href="#x-αmt">x-αMT</a></li>
     <li><a href="#x-αet">x-αET</a></li>
@@ -555,11 +560,315 @@
             <td><a href="https://en.wikipedia.org/wiki/LAE-32" target="_blank">LAE-32</a></td>
             <td><img src="images/CCNC%28%5BC%40H%5D1CN%28C%29%5BC%40H%5D2C%28c3c4c%28%5BnH%5Dcc4C2%29ccc3%29%3DC1%29%3DO_200.svg"></td>
         </tr>
+        <tr>
+            <td>5</td>
+            <td>470666-31-0</td>
+            <td>[(6aR,9R)-7-methyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinolin-9-yl]-[(2S,4S)-2,4-dimethylazetidin-1-yl]methanone</td>
+            <td><a href="https://en.wikipedia.org/wiki/Lysergic_acid_2,4-dimethylazetidide" target="_blank">LSZ(LA-SS-Az, LA-Azetidide)</a></td>
+            <td><img src="images/C%5BC%40H%5D1C%5BC%40H%5D%28C%29N1C%28%3DO%29%5BC%40H%5D1CN%28C%29%5BC%40%40H%5D2CC3%3DCNC4%3DCC%3DCC%28C2%3DC1%29%3DC34_200.svg"></td>
+        </tr>
     </tbody>
 </table>
 </details>
 
 # 取代色胺
+
+<details>
+<table>
+    <tbody>
+        <tr>
+            <td width="40"><strong>序号</strong></td>
+            <td width="105"><strong>CAS号</strong></td>
+            <td><strong>英文名</strong></td>
+            <td><strong>备注</strong></td>
+            <td><strong>结构式</strong></td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>61-52-9</td>
+            <td>N-[2-(1H-indol-3-yl)ethyl]-N-propylpropan-1-amine</td>
+            <td><a href="https://en.wikipedia.org/wiki/Dipropyltryptamine" target="_blank">DPT</a></td>
+            <td><img src="images/CCCN(CCC)CCC1=CNC2=CC=CC=C12_200.svg"></td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>850032-72-3</td>
+            <td>N-[2-(1H-indol-3-yl)ethyl]-N-methylpropan-1-amine</td>
+            <td><a href="https://en.wikipedia.org/wiki/Methylpropyltryptamine" target="_blank">MPT</a></td>
+            <td><img src="images/CCCN(C)CCC1=CNC2=CC=CC=C12_200.svg"></td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>5599-69-9</td>
+            <td>N-ethyl-2-(1H-indol-3-yl)-N-methylethanamine</td>
+            <td><a href="https://en.wikipedia.org/wiki/Methylethyltryptamine" target="_blank">MET</a></td>
+            <td><img src="images/CCN(C)CCC1=CNC2=CC=CC=C12_200.svg"></td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>850032-68-7</td>
+            <td>N-ethyl-N-[2-(1H-indol-3-yl)ethyl]propan-1-amine</td>
+            <td><a href="https://en.wikipedia.org/wiki/Ethylpropyltryptamine" target="_blank">EPT</a></td>
+            <td><img src="images/CCCN(CC)CCC1=CNC2=CC=CC=C12_200.svg"></td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>96096-52-5</td>
+            <td>N-[2-(1H-indol-3-yl)ethyl]-N-methylpropan-2-amine</td>
+            <td><a href="https://en.wikipedia.org/wiki/MiPT" target="_blank">MiPT</a></td>
+            <td><img src="images/CC%28C%29N%28CCC1C2C%28%3DCC%3DCC%3D2%29NC%3D1%29C_200.svg"></td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>14780-24-6</td>
+            <td>N-[2-(1H-indol-3-yl)ethyl]-N-propan-2-ylpropan-2-amine</td>
+            <td><a href="https://en.wikipedia.org/wiki/DiPT" target="_blank">DiPT</a></td>
+            <td><img src="images/C1%3DCC%3DC2NC%3DC%28CCN%28C%28C%29C%29C%28C%29C%29C2%3DC1_200.svg"></td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>1354632-00-0</td>
+            <td>N-[2-(1H-indol-3-yl)ethyl]-N-propan-2-ylpropan-1-amine</td>
+            <td><a href="https://en.wikipedia.org/wiki/Propylisopropyltryptamine" target="_blank">PiPT</a></td>
+            <td><img src="images/CC%28N%28CCC1C2C%28%3DCC%3DCC%3D2%29NC%3D1%29CCC%29C_200.svg"></td>
+        </tr>
+    </tbody>
+</table>
+</details>
+
+# 4-OH-取代色胺
+
+<details>
+<table>
+    <tbody>
+        <tr>
+            <td width="40"><strong>序号</strong></td>
+            <td width="105"><strong>CAS号</strong></td>
+            <td><strong>英文名</strong></td>
+            <td><strong>备注</strong></td>
+            <td><strong>结构式</strong></td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>77872-41-4</td>
+            <td>3-[2-[ethyl(methyl)amino]ethyl]-1H-indol-4-ol</td>
+            <td><a href="https://en.wikipedia.org/wiki/4-HO-MET" target="_blank">4-OH-MET</a></td>
+            <td><img src="images/CCN(C)CCC1=CNC2=CC=CC(O)=C12_200.svg"></td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>22204-89-3</td>
+            <td>3-[2-(diethylamino)ethyl]-1H-indol-4-o</td>
+            <td><a href="https://en.wikipedia.org/wiki/4-HO-DET" target="_blank">4-HO-DET</a></td>
+            <td><img src="images/CCN(CC)CCC1=CNC2=CC=CC(O)=C12_200.svg"></td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>132328-45-1</td>
+            <td>3-[2-[di(propan-2-yl)amino]ethyl]-1H-indol-4-ol</td>
+            <td><a href="https://en.wikipedia.org/wiki/4-HO-DiPT" target="_blank">4-HO-DiPT</a></td>
+            <td><img src="images/CC(C)N(CCC1=CNC2=CC=CC(O)=C12)C(C)C_200.svg"></td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>63065-88-3</td>
+            <td>3-[2-(diethylamino)ethyl]-1H-indol-4-o</td>
+            <td><a href="https://en.wikipedia.org/wiki/4-HO-DPT" target="_blank">4-HO-DPT</a></td>
+            <td><img src="images/CCCN(CCC)CCC1=CNC2=CC=CC(O)=C12_200.svg"></td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>2595431-59-5</td>
+            <td>3-{2-[ethyl(propyl)amino]ethyl}-1H-indol-4-ol</td>
+            <td><a href="https://en.wikipedia.org/wiki/4-HO-EPT" target="_blank">4-HO-EPT</a></td>
+            <td><img src="images/CCCN(CC)CCC1=CNC2=CC=CC(O)=C12_200.svg"></td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>763035-03-6</td>
+            <td>3-[2-[methyl(propyl)amino]ethyl]-1H-indol-4-ol</td>
+            <td><a href="https://en.wikipedia.org/wiki/4-HO-MPT" target="_blank">4-HO-MPT</a></td>
+            <td><img src="images/CCCN(C)CCC1=CNC2=C1C(=CC=C2)O_200.svg"></td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>2173386-70-2</td>
+            <td>3-[2-[bis(prop-2-enyl)amino]ethyl]-1H-indol-4-ol</td>
+            <td><a href="https://en.wikipedia.org/wiki/4-HO-DALT" target="_blank">4-HO-DALT</a></td>
+            <td><img src="images/C=CCN(CCC1=CNC2=C1C(=CC=C2)O)CC=C_200.svg"></td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>&nbsp;</td>
+            <td>3-[2-[propan-2-yl(propyl)amino]ethyl]-1H-indol-4-ol</td>
+            <td>4-OH-PiPT</a></td>
+            <td><img src="images/CC%28N%28CCC1C2C%28%3DCC%3DCC%3D2O%29NC%3D1%29CCC%29C_200.svg"></td>
+        </tr>
+    </tbody>
+</table>
+</details>
+
+# 4-AcO-取代色胺
+
+<details>
+<table>
+    <tbody>
+        <tr>
+            <td width="40"><strong>序号</strong></td>
+            <td width="105"><strong>CAS号</strong></td>
+            <td><strong>英文名</strong></td>
+            <td><strong>备注</strong></td>
+            <td><strong>结构式</strong></td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>1445751-40-5</td>
+            <td>[3-[2-[ethyl(methyl)amino]ethyl]-1H-indol-4-yl]acetate</td>
+            <td><a href="https://en.wikipedia.org/wiki/4-AcO-MET" target="_blank">4-AcO-MET</a></td>
+            <td><img src="images/CCN(C)CCC1=CNC2=CC=CC(OC(C)=O)=C12_200.svg"></td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>1135424-15-5</td>
+            <td>[3-[2-(diethylamino)ethyl]-1H-indol-4-yl]acetate</td>
+            <td><a href="https://en.wikipedia.org/wiki/4-AcO-DET" target="_blank">4-AcO-DET</a></td>
+            <td><img src="images/CCN(CC)CCC1=CNC2=CC=CC(OC(C)=O)=C12_200.svg"></td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>1024612-25-6</td>
+            <td>[3-[2-[methyl(propan-2-yl)amino]ethyl]-1H-indol-4-yl]acetate</td>
+            <td><a href="https://en.wikipedia.org/wiki/4-AcO-MiPT" target="_blank">4-AcO-MiPT</a></td>
+            <td><img src="images/CC(=O)OC1=C2C(CCN(C)C(C)C)=CNC2=CC=C1_200.svg"></td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>1024612-25-6</td>
+            <td>[3-[2-[ethyl(propan-2-yl)amino]ethyl]-1H-indol-4-yl]acetate</td>
+            <td>4-AcO-EiPT</td>
+            <td><img src="images/CCN(CCC1=CNC2=CC=CC(OC(C)=O)=C12)C(C)C_200.svg"></td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>936015-60-0</td>
+            <td>[3-[2-[di(propan-2-yl)amino]ethyl]-1H-indol-4-yl]acetate</td>
+            <td><a href="https://en.wikipedia.org/wiki/4-AcO-DiPT" target="_blank">4-AcO-DiPT</a></td>
+            <td><img src="images/CC(=O)OC1=C2C(CCN(C(C)C)C(C)C)=CNC2=CC=C1_200.svg"></td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>1445751-75-6</td>
+            <td>[3-[2-(dipropylamino)ethyl]-1H-indol-4-yl]acetate</td>
+            <td><a href="https://en.wikipedia.org/wiki/4-AcO-DPT" target="_blank">4-AcO-DPT</a></td>
+            <td><img src="images/CCCN(CCC)CCC1=CNC2=CC=CC(OC(C)=O)=C12_200.svg"></td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>1445751-71-2</td>
+            <td>[3-[2-[bis(prop-2-enyl)amino]ethyl]-1H-indol-4-yl] acetate</td>
+            <td><a href="https://en.wikipedia.org/wiki/4-AcO-DALT" target="_blank">4-AcO-DALT</a></td>
+            <td><img src="images/C%3DCCN%28CCC1C2C%28%3DCC%3DCC%3D2OC%28%3DO%29C%29NC%3D1%29CC%3DC_200.svg"></td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>&nbsp;</td>
+            <td>[3-[2-[propan-2-yl(propyl)amino]ethyl]-1H-indol-4-yl] acetate</td>
+            <td>4-AcO-PiPT</td>
+            <td><img src="images/CC%28N%28CCC1C2C%28%3DCC%3DCC%3D2OC%28%3DO%29C%29NC%3D1%29CCC%29C_200.svg"></td>
+        </tr>
+    </tbody>
+</table>
+</details>
+
+# 5-MeO-取代色胺
+
+<details>
+<table>
+    <tbody>
+        <tr>
+            <td width="40"><strong>序号</strong></td>
+            <td width="105"><strong>CAS号</strong></td>
+            <td><strong>英文名</strong></td>
+            <td><strong>备注</strong></td>
+            <td><strong>结构式</strong></td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>1218-40-2</td>
+            <td>N,N-diethyl-2-(5-methoxy-1H-indol-3-yl)ethanamine</td>
+            <td><a href="https://en.wikipedia.org/wiki/5-MeO-DET" target="_blank">5-MeO-DET</a></td>
+            <td><img src="images/CCN(CC)CCC1=CNC2=CC=C(OC)C=C12_200.svg"></td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>850032-66-5</td>
+            <td>N-ethyl-N-[2-(5-methoxy-1H-indol-3-yl)ethyl]propan-2-amine</td>
+            <td><a href="https://en.wikipedia.org/wiki/5-MeO-EiPT" target="_blank">5-MeO-EiPT</a></td>
+            <td><img src="images/COC1C%3DC2C%28NC%3DC2CCN%28CC%29C%28C%29C%29%3DCC%3D1_200.svg"></td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>850032-67-6</td>
+            <td>N-ethyl-N-[2-(5-methoxy-1H-indol-3-yl)ethyl]propan-1-amine</td>
+            <td><a href="https://en.wikipedia.org/wiki/5-MeO-EPT" target="_blank">5-MeO-EPT</a></td>
+            <td><img src="images/COC1C%3DC2C%28NC%3DC2CCN%28CC%29CCC%29%3DCC%3D1_200.svg"></td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>69496-75-9</td>
+            <td>N-[2-(5-methoxy-1H-indol-3-yl)ethyl]-N-propylpropan-1-amine</td>
+            <td><a href="https://en.wikipedia.org/wiki/5-MeO-DPT" target="_blank">5-MeO-DPT</a></td>
+            <td><img src="images/C1%28OC%29C%3DC2C%28NC%3DC2CCN%28CCC%29CCC%29%3DCC%3D1_200.svg"></td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>109921-55-3</td>
+            <td>N-[2-(5-methoxy-1H-indol-3-yl)ethyl]propan-2-amine</td>
+            <td><a href="https://en.wikipedia.org/wiki/5-MeO-NiPT" target="_blank">5-MeO-NiPT</a></td>
+            <td><img src="images/COC1C%3DC2C%28%3DCNC2%3DCC%3D1%29CCNC%28C%29C_200.svg"></td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>&nbsp;</td>
+            <td>N-[2-(5-methoxy-1H-indol-3-yl)ethyl]-N-propan-2-ylpropan-1-amine</td>
+            <td>5-MeO-PiPT</td>
+            <td><img src="images/CC%28N%28CCC1C2C%28%3DCC%3DC%28OC%29C%3D2%29NC%3D1%29CCC%29C_200.svg"></td>
+        </tr>
+    </tbody>
+</table>
+</details>
+
+# 5-X-取代色胺
+
+<details>
+<table>
+    <tbody>
+        <tr>
+            <td width="40"><strong>序号</strong></td>
+            <td width="105"><strong>CAS号</strong></td>
+            <td><strong>英文名</strong></td>
+            <td><strong>备注</strong></td>
+            <td><strong>结构式</strong></td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>22120-32-7</td>
+            <td>2-(5-chloro-1H-indol-3-yl)-N,N-dimethylethanamine</td>
+            <td><a href="https://en.wikipedia.org/wiki/5-Chloro-DMT" target="_blank">5-chloro-DMT(5-Cl-DMT)</a></td>
+            <td><img src="images/CN%28CCC1C2C%3DC%28Cl%29C%3DCC%3D2NC%3D1%29C_200.svg"></td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>22120-36-1</td>
+            <td>2-(5-fluoro-1H-indol-3-yl)-N,N-dimethylethanamine</td>
+            <td><a href="https://en.wikipedia.org/wiki/5-Fluoro-DMT" target="_blank">5-fluoro-DMT(5-F-DMT)</a></td>
+            <td><img src="images/CN%28CCC1C2C%3DC%28F%29C%3DCC%3D2NC%3D1%29C_200.svg"></td>
+        </tr>
+    </tbody>
+</table>
+</details>
+
+# NB-取代色胺
 
 <details>
 <table>
@@ -591,195 +900,6 @@
             <td>tert-butyl 3-(2-(isopropyl(methyl)amino)ethyl)-5-methoxy-1H-indole-1-carboxylate</td>
             <td>NB-5-MeO-MiPT</td>
             <td><img src="images/COC1=CC=C2C(=C1)C(CCN(C)C(C)C)=CN2C(=O)OC(C)(C)C_200.svg"></td>
-        </tr>
-        <tr>
-            <td>4</td>
-            <td>61-52-9</td>
-            <td>N-[2-(1H-indol-3-yl)ethyl]-N-propylpropan-1-amine</td>
-            <td><a href="https://en.wikipedia.org/wiki/Dipropyltryptamine" target="_blank">DPT</a></td>
-            <td><img src="images/CCCN(CCC)CCC1=CNC2=CC=CC=C12_200.svg"></td>
-        </tr>
-        <tr>
-            <td>5</td>
-            <td>850032-72-3</td>
-            <td>N-[2-(1H-indol-3-yl)ethyl]-N-methylpropan-1-amine</td>
-            <td><a href="https://en.wikipedia.org/wiki/Methylpropyltryptamine" target="_blank">MPT</a></td>
-            <td><img src="images/CCCN(C)CCC1=CNC2=CC=CC=C12_200.svg"></td>
-        </tr>
-        <tr>
-            <td>6</td>
-            <td>5599-69-9</td>
-            <td>N-ethyl-2-(1H-indol-3-yl)-N-methylethanamine</td>
-            <td><a href="https://en.wikipedia.org/wiki/Methylethyltryptamine" target="_blank">MET</a></td>
-            <td><img src="images/CCN(C)CCC1=CNC2=CC=CC=C12_200.svg"></td>
-        </tr>
-        <tr>
-            <td>7</td>
-            <td>850032-68-7</td>
-            <td>N-ethyl-N-[2-(1H-indol-3-yl)ethyl]propan-1-amine</td>
-            <td><a href="https://en.wikipedia.org/wiki/Ethylpropyltryptamine" target="_blank">EPT</a></td>
-            <td><img src="images/CCCN(CC)CCC1=CNC2=CC=CC=C12_200.svg"></td>
-        </tr>
-        <tr>
-            <td>8</td>
-            <td>1218-40-2</td>
-            <td>N,N-diethyl-2-(5-methoxy-1H-indol-3-yl)ethanamine</td>
-            <td><a href="https://en.wikipedia.org/wiki/5-MeO-DET" target="_blank">5-MeO-DET</a></td>
-            <td><img src="images/CCN(CC)CCC1=CNC2=CC=C(OC)C=C12_200.svg"></td>
-        </tr>
-        <tr>
-            <td>9</td>
-            <td>1445751-40-5</td>
-            <td>[3-[2-[ethyl(methyl)amino]ethyl]-1H-indol-4-yl]acetate</td>
-            <td><a href="https://en.wikipedia.org/wiki/4-AcO-MET" target="_blank">4-AcO-MET</a></td>
-            <td><img src="images/CCN(C)CCC1=CNC2=CC=CC(OC(C)=O)=C12_200.svg"></td>
-        </tr>
-        <tr>
-            <td>10</td>
-            <td>1135424-15-5</td>
-            <td>[3-[2-(diethylamino)ethyl]-1H-indol-4-yl]acetate</td>
-            <td><a href="https://en.wikipedia.org/wiki/4-AcO-DET" target="_blank">4-AcO-DET</a></td>
-            <td><img src="images/CCN(CC)CCC1=CNC2=CC=CC(OC(C)=O)=C12_200.svg"></td>
-        </tr>
-        <tr>
-            <td>11</td>
-            <td>1024612-25-6</td>
-            <td>[3-[2-[methyl(propan-2-yl)amino]ethyl]-1H-indol-4-yl]acetate</td>
-            <td><a href="https://en.wikipedia.org/wiki/4-AcO-MiPT" target="_blank">4-AcO-MiPT</a></td>
-            <td><img src="images/CC(=O)OC1=C2C(CCN(C)C(C)C)=CNC2=CC=C1_200.svg"></td>
-        </tr>
-        <tr>
-            <td>12</td>
-            <td>1024612-25-6</td>
-            <td>[3-[2-[ethyl(propan-2-yl)amino]ethyl]-1H-indol-4-yl]acetate</td>
-            <td>4-AcO-EiPT</td>
-            <td><img src="images/CCN(CCC1=CNC2=CC=CC(OC(C)=O)=C12)C(C)C_200.svg"></td>
-        </tr>
-        <tr>
-            <td>13</td>
-            <td>936015-60-0</td>
-            <td>[3-[2-[di(propan-2-yl)amino]ethyl]-1H-indol-4-yl]acetate</td>
-            <td><a href="https://en.wikipedia.org/wiki/4-AcO-DiPT" target="_blank">4-AcO-DiPT</a></td>
-            <td><img src="images/CC(=O)OC1=C2C(CCN(C(C)C)C(C)C)=CNC2=CC=C1_200.svg"></td>
-        </tr>
-        <tr>
-            <td>14</td>
-            <td>1445751-75-6</td>
-            <td>[3-[2-(dipropylamino)ethyl]-1H-indol-4-yl]acetate</td>
-            <td><a href="https://en.wikipedia.org/wiki/4-AcO-DPT" target="_blank">4-AcO-DPT</a></td>
-            <td><img src="images/CCCN(CCC)CCC1=CNC2=CC=CC(OC(C)=O)=C12_200.svg"></td>
-        </tr>
-        <tr>
-            <td>15</td>
-            <td>77872-41-4</td>
-            <td>3-[2-[ethyl(methyl)amino]ethyl]-1H-indol-4-ol</td>
-            <td><a href="https://en.wikipedia.org/wiki/4-HO-MET" target="_blank">4-OH-MET</a></td>
-            <td><img src="images/CCN(C)CCC1=CNC2=CC=CC(O)=C12_200.svg"></td>
-        </tr>
-        <tr>
-            <td>16</td>
-            <td>22204-89-3</td>
-            <td>3-[2-(diethylamino)ethyl]-1H-indol-4-o</td>
-            <td><a href="https://en.wikipedia.org/wiki/4-HO-DET" target="_blank">4-HO-DET</a></td>
-            <td><img src="images/CCN(CC)CCC1=CNC2=CC=CC(O)=C12_200.svg"></td>
-        </tr>
-        <tr>
-            <td>17</td>
-            <td>132328-45-1</td>
-            <td>3-[2-[di(propan-2-yl)amino]ethyl]-1H-indol-4-ol</td>
-            <td><a href="https://en.wikipedia.org/wiki/4-HO-DiPT" target="_blank">4-HO-DiPT</a></td>
-            <td><img src="images/CC(C)N(CCC1=CNC2=CC=CC(O)=C12)C(C)C_200.svg"></td>
-        </tr>
-        <tr>
-            <td>18</td>
-            <td>63065-88-3</td>
-            <td>3-[2-(diethylamino)ethyl]-1H-indol-4-o</td>
-            <td><a href="https://en.wikipedia.org/wiki/4-HO-DPT" target="_blank">4-HO-DPT</a></td>
-            <td><img src="images/CCCN(CCC)CCC1=CNC2=CC=CC(O)=C12_200.svg"></td>
-        </tr>
-        <tr>
-            <td>19</td>
-            <td>2595431-59-5</td>
-            <td>3-{2-[ethyl(propyl)amino]ethyl}-1H-indol-4-ol</td>
-            <td><a href="https://en.wikipedia.org/wiki/4-HO-EPT" target="_blank">4-HO-EPT</a></td>
-            <td><img src="images/CCCN(CC)CCC1=CNC2=CC=CC(O)=C12_200.svg"></td>
-        </tr>
-        <tr>
-            <td>20</td>
-            <td>763035-03-6</td>
-            <td>3-[2-[methyl(propyl)amino]ethyl]-1H-indol-4-ol</td>
-            <td><a href="https://en.wikipedia.org/wiki/4-HO-MPT" target="_blank">4-HO-MPT</a></td>
-            <td><img src="images/CCCN(C)CCC1=CNC2=C1C(=CC=C2)O_200.svg"></td>
-        </tr>
-        <tr>
-            <td>21</td>
-            <td>2173386-70-2</td>
-            <td>3-[2-[bis(prop-2-enyl)amino]ethyl]-1H-indol-4-ol</td>
-            <td><a href="https://en.wikipedia.org/wiki/4-HO-DALT" target="_blank">4-HO-DALT</a></td>
-            <td><img src="images/C=CCN(CCC1=CNC2=C1C(=CC=C2)O)CC=C_200.svg"></td>
-        </tr>
-        <tr>
-            <td>22</td>
-            <td>1445751-71-2</td>
-            <td>[3-[2-[bis(prop-2-enyl)amino]ethyl]-1H-indol-4-yl] acetate</td>
-            <td><a href="https://en.wikipedia.org/wiki/4-AcO-DALT" target="_blank">4-AcO-DALT</a></td>
-            <td><img src="images/C%3DCCN%28CCC1C2C%28%3DCC%3DCC%3D2OC%28%3DO%29C%29NC%3D1%29CC%3DC_200.svg"></td>
-        </tr>
-        <tr>
-            <td>23</td>
-            <td>96096-52-5</td>
-            <td>N-[2-(1H-indol-3-yl)ethyl]-N-methylpropan-2-amine</td>
-            <td><a href="https://en.wikipedia.org/wiki/MiPT" target="_blank">MiPT</a></td>
-            <td><img src="images/CC%28C%29N%28CCC1C2C%28%3DCC%3DCC%3D2%29NC%3D1%29C_200.svg"></td>
-        </tr>
-        <tr>
-            <td>24</td>
-            <td>850032-66-5</td>
-            <td>N-ethyl-N-[2-(5-methoxy-1H-indol-3-yl)ethyl]propan-2-amine</td>
-            <td><a href="https://en.wikipedia.org/wiki/5-MeO-EiPT" target="_blank">5-MeO-EiPT</a></td>
-            <td><img src="images/COC1C%3DC2C%28NC%3DC2CCN%28CC%29C%28C%29C%29%3DCC%3D1_200.svg"></td>
-        </tr>
-        <tr>
-            <td>25</td>
-            <td>850032-67-6</td>
-            <td>N-ethyl-N-[2-(5-methoxy-1H-indol-3-yl)ethyl]propan-1-amine</td>
-            <td><a href="https://en.wikipedia.org/wiki/5-MeO-EPT" target="_blank">5-MeO-EPT</a></td>
-            <td><img src="images/COC1C%3DC2C%28NC%3DC2CCN%28CC%29CCC%29%3DCC%3D1_200.svg"></td>
-        </tr>
-        <tr>
-            <td>26</td>
-            <td>14780-24-6</td>
-            <td>N-[2-(1H-indol-3-yl)ethyl]-N-propan-2-ylpropan-2-amine</td>
-            <td><a href="https://en.wikipedia.org/wiki/DiPT" target="_blank">DiPT</a></td>
-            <td><img src="images/C1%3DCC%3DC2NC%3DC%28CCN%28C%28C%29C%29C%28C%29C%29C2%3DC1_200.svg"></td>
-        </tr>
-        <tr>
-            <td>27</td>
-            <td>69496-75-9</td>
-            <td>N-[2-(5-methoxy-1H-indol-3-yl)ethyl]-N-propylpropan-1-amine</td>
-            <td><a href="https://en.wikipedia.org/wiki/5-MeO-DPT" target="_blank">5-MeO-DPT</a></td>
-            <td><img src="images/C1%28OC%29C%3DC2C%28NC%3DC2CCN%28CCC%29CCC%29%3DCC%3D1_200.svg"></td>
-        </tr>
-        <tr>
-            <td>28</td>
-            <td>22120-32-7</td>
-            <td>2-(5-chloro-1H-indol-3-yl)-N,N-dimethylethanamine</td>
-            <td><a href="https://en.wikipedia.org/wiki/5-Chloro-DMT" target="_blank">5-chloro-DMT(5-Cl-DMT)</a></td>
-            <td><img src="images/CN%28CCC1C2C%3DC%28Cl%29C%3DCC%3D2NC%3D1%29C_200.svg"></td>
-        </tr>
-        <tr>
-            <td>29</td>
-            <td>22120-36-1</td>
-            <td>2-(5-fluoro-1H-indol-3-yl)-N,N-dimethylethanamine</td>
-            <td><a href="https://en.wikipedia.org/wiki/5-Fluoro-DMT" target="_blank">5-fluoro-DMT(5-F-DMT)</a></td>
-            <td><img src="images/CN%28CCC1C2C%3DC%28F%29C%3DCC%3D2NC%3D1%29C_200.svg"></td>
-        </tr>
-        <tr>
-            <td>30</td>
-            <td>109921-55-3</td>
-            <td>N-[2-(5-methoxy-1H-indol-3-yl)ethyl]propan-2-amine</td>
-            <td><a href="https://en.wikipedia.org/wiki/5-MeO-NiPT" target="_blank">5-MeO-NiPT</a></td>
-            <td><img src="images/COC1C%3DC2C%28%3DCNC2%3DCC%3D1%29CCNC%28C%29C_200.svg"></td>
         </tr>
     </tbody>
 </table>
