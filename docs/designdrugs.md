@@ -57,7 +57,7 @@
     <li><a href="#类甲喹酮">类甲喹酮</a></li>
     <li><a href="#bzds">BZDs</a></li>
     <li><a href="#类bzds">类BZDs</a></li>
-    <li><a href="#取代依托咪酯">取代依托咪酯</a></li>
+    <li><a href="#类依托咪酯">类依托咪酯</a></li>
     <li><a href="#类莫达非尼">类莫达非尼</a></li>
     <li><a href="#亚硝酸x酯">亚硝酸x酯</a></li>
     <li><a href="#类可卡因">类可卡因</a></li>
@@ -566,6 +566,55 @@
             <td>[(6aR,9R)-7-methyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinolin-9-yl]-[(2S,4S)-2,4-dimethylazetidin-1-yl]methanone</td>
             <td><a href="https://en.wikipedia.org/wiki/Lysergic_acid_2,4-dimethylazetidide" target="_blank">LSZ(LA-SS-Az, LA-Azetidide)</a></td>
             <td><img src="images/C%5BC%40H%5D1C%5BC%40H%5D%28C%29N1C%28%3DO%29%5BC%40H%5D1CN%28C%29%5BC%40%40H%5D2CC3%3DCNC4%3DCC%3DCC%28C2%3DC1%29%3DC34_200.svg"></td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>3028949-85-8</td>
+            <td>(6aR,9R)-N,N-diethyl-7-methyl-4-(thiophene-2-carbonyl)-6,6a,8,9-tetrahydroindolo[4,3-fg]quinoline-9-carboxamide</td>
+            <td><a href="https://en.wikipedia.org/wiki/1T-LSD" target="_blank">1T-LSD(SYN-L-021)</a></td>
+            <td><img src="images/CCN%28C%28%5BC%40%40H%5D1C%3DC2%5BC%40%40H%5D%28CC3C4C%28%3DCC%3DCC%3D42%29N%28C%28C2SC%3DCC%3D2%29%3DO%29C%3D3%29N%28C%29C1%29%3DO%29CC_200.svg"></td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>2349376-12-9</td>
+            <td>(6aR,9R)-4-butanoyl-N,N-diethyl-7-methyl-6,6a,8,9-tetrahydroindolo[4,3-fg]quinoline-9-carboxamide</td>
+            <td><a href="https://en.wikipedia.org/wiki/1B-LSD" target="_blank">1B-LSD</a></td>
+            <td><img src="images/CN1C%5BC%40H%5D%28C%28%3DO%29N%28CC%29CC%29C%3DC2C3%3DCC%3DCC4%3DC3C%28%3DCN4C%28%3DO%29CCC%29C%5BC%40%40%5D12%5BH%5D_200.svg"></td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>3270-02-8</td>
+            <td>(6aR,9R)-4-acetyl-N,N-diethyl-7-methyl-6,6a,8,9-tetrahydroindolo[4,3-fg]quinoline-9-carboxamide</td>
+            <td><a href="https://en.wikipedia.org/wiki/ALD-52" target="_blank">1A-LSD(1A-LSD)</a></td>
+            <td><img src="images/CCN%28C%28%5BC%40%40H%5D1C%3DC2%5BC%40%40H%5D%28CC3C4C%28%3DCC%3DCC%3D42%29N%28C%28C%29%3DO%29C%3D3%29N%28C%29C1%29%3DO%29CC_200.svg"></td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>65527-61-9</td>
+            <td>(6aR,9R)-N,N-diethyl-7-prop-2-enyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinoline-9-carboxamide</td>
+            <td><a href="https://en.wikipedia.org/wiki/AL-LAD" target="_blank">AL-LAD(6-allyl-6-nor-LSD)</a></td>
+            <td><img src="images/%5BH%5D%5BC%40%5D12N%28CC%3DC%29C%5BC%40H%5D%28C%28N%28CC%29CC%29%3DO%29C%3DC1C1C3%3DC%28C%3DCC%3D1%29NC%3DC3C2_200.svg"></div></td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>65527-62-0</td>
+            <td>(6aR,9R)-N,N,7-triethyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinoline-9-carboxamide</td>
+            <td><a href="https://en.wikipedia.org/wiki/ETH-LAD" target="_blank">ETH-LAD(ETHLAD)</a></td>
+            <td><img src="images/CCN%28CC%29C%28%3DO%29%5BC%40H%5D1CN%28CC%29%5BC%40H%5D2C%28C3C4C%28%3DCNC%3D4C%3DCC%3D3%29C2%29%3DC1_200.svg"></td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td>2230715-45-2</td>
+            <td>(6aR,9R)-N,N,7-triethyl-4-propanoyl-6,6a,8,9-tetrahydroindolo[4,3-fg]quinoline-9-carboxamide</td>
+            <td><a href="https://en.wikipedia.org/wiki/1P-ETH-LAD" target="_blank"1>1P-ETH-LAD</a></td>
+            <td><img src="images/CCC%28%3DO%29N1C%3DC2C%5BC%40%40H%5D3C%28%3DC%5BC%40H%5D%28CN3CC%29C%28%3DO%29N%28CC%29CC%29C4%3DC2C1%3DCC%3DC4_200.svg"></td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td>&nbsp;</td>
+            <td>(6aR,9R)-N,N-diethyl-7-methyl-4-(3-trimethylsilylpropanoyl)-6,6a,8,9-tetrahydroindolo[4,3-fg]quinoline-9-carboxamide</td>
+            <td><a href="https://en.wikipedia.org/wiki/1S-LSD" target="_blank">1S-LSD</a></td>
+            <td><img src="images/C%5BSi%5D%28C%29%28C%29CCC%28N1C2C3C%28C%5BC%40%40H%5D4C%28C%3D3C%3DCC%3D2%29%3DC%5BC%40%40H%5D%28C%28N%28CC%29CC%29%3DO%29CN4C%29%3DC1%29%3DO_200.svg"></td>
         </tr>
     </tbody>
 </table>
@@ -2763,7 +2812,7 @@
 </table>
 </details>
 
-# 取代依托咪酯
+# 类依托咪酯
 
 <details>
 <table>
@@ -2788,6 +2837,13 @@
             <td>tert-butyl 3-(1-phenylethyl)imidazole-4-carboxylate</td>
             <td>tert-Butomidate</td>
             <td><img src="images/CC(C1=CC=CC=C1)N1C=NC=C1C(=O)OC(C)(C)C_200.svg"></td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>813466-05-6</td>
+            <td>methyl 3-[(1R)-1-(4-iodophenyl)ethyl]imidazole-4-carboxylate</td>
+            <td>123I-iodometomidate</td>
+            <td><img src="images/COC%28C1N%28%5BC%40%40H%5D%28C2C%3DCC%28I%29%3DCC%3D2%29C%29C%3DNC%3D1%29%3DO_200.svg"></td>
         </tr>
     </tbody>
 </table>
