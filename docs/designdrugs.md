@@ -2996,3 +2996,54 @@
     </tbody>
 </table>
 </details>
+
+# 取代Aminorex
+
+<details>
+<table>
+    <tbody>
+        <tr>
+            <td width="40"><strong>序号</strong></td>
+            <td width="105"><strong>CAS号</strong></td>
+            <td><strong>英文名</strong></td>
+            <td><strong>备注</strong></td>
+            <td><strong>结构式</strong></td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>720-76-3</td>
+            <td>5-[4-(trifluoromethyl)phenyl]-4,5-dihydro-1,3-oxazol-2-amine</td>
+            <td><a href="https://en.wikipedia.org/wiki/Fluminorex" target="_blank">Fluminorex</a></td>
+            <td><img src="images/C1N%3DC%28N%29OC1C1C%3DCC%28C%28F%29%28F%29F%29%3DCC%3D1_200.svg"></td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>3876-10-6</td>
+            <td>5-(4-chlorophenyl)-4,5-dihydro-1,3-oxazol-2-amine</td>
+            <td><a href="https://en.wikipedia.org/wiki/Clominorex" target="_blank">Clominorex</a></td>
+            <td><img src="images/C1N%3DC%28N%29OC1C1C%3DCC%28Cl%29%3DCC%3D1_200.svg"></td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>&nbsp;</td>
+            <td>5-(4-bromo-2,5-dimethoxyphenyl)-4,5-dihydro-1,3-oxazol-2-amine</td>
+            <td><a href="https://en.wikipedia.org/wiki/2C-B-aminorex" target="_blank">2C-B-aminorex(2C-B-AR)</a></td>
+            <td><img src="images/COC1C%28C2OC%28N%29%3DNC2%29%3DCC%28OC%29%3DC%28Br%29C%3D1_200.svg"></td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>1364933-64-1</td>
+            <td>5-(4-fluorophenyl)-4-methyl-4,5-dihydro-1,3-oxazol-2-amine</td>
+            <td><a href="https://en.wikipedia.org/wiki/4%27-Fluoro-4-methylaminorex" target="_blank">4F-MAR(4-FPO)</a></td>
+            <td><img src="images/CC1N%3DC%28N%29OC1C1C%3DCC%28F%29%3DCC%3D1_200.svg"></td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>&nbsp;</td>
+            <td>5-(4-chlorophenyl)-4-methyl-4,5-dihydro-1,3-oxazol-2-amine</td>
+            <td><a href="https://en.wikipedia.org/wiki/4C-MAR" target="_blank">4C-MAR(4'-Cl-4-MAR)</a></td>
+            <td><img src="images/CC1N%3DC%28N%29OC1C1C%3DCC%28Cl%29%3DCC%3D1_200.svg"></td>
+        </tr>
+    </tbody>
+</table>
+</details>
