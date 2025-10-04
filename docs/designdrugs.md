@@ -61,6 +61,7 @@
     <li><a href="#类莫达非尼">类莫达非尼</a></li>
     <li><a href="#亚硝酸x酯">亚硝酸x酯</a></li>
     <li><a href="#类可卡因">类可卡因</a></li>
+    <li><a href="#取代aminorex">取代Aminorex</a></li>
 </ul>
 
 # 2C-x
