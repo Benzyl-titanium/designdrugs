@@ -749,9 +749,9 @@
         </tr>
         <tr>
             <td>8</td>
-            <td>&nbsp;</td>
+            <td>2767428-88-4</td>
             <td>3-[2-[propan-2-yl(propyl)amino]ethyl]-1H-indol-4-ol</td>
-            <td>4-OH-PiPT</a></td>
+            <td><a href="https://en.wikipedia.org/wiki/4-HO-PiPT" target="_blank">4-OH-PiPT</a></td>
             <td><img src="images/CC%28N%28CCC1C2C%28%3DCC%3DCC%3D2O%29NC%3D1%29CCC%29C_200.svg"></td>
         </tr>
     </tbody>
@@ -879,9 +879,9 @@
         </tr>
         <tr>
             <td>6</td>
-            <td>&nbsp;</td>
+            <td>2945111-53-3</td>
             <td>N-[2-(5-methoxy-1H-indol-3-yl)ethyl]-N-propan-2-ylpropan-1-amine</td>
-            <td>5-MeO-PiPT</td>
+            <td><a href="https://en.wikipedia.org/wiki/5-MeO-PiPT" target="_blank">5-MeO-PiPT</a></td>
             <td><img src="images/CC%28N%28CCC1C2C%28%3DCC%3DC%28OC%29C%3D2%29NC%3D1%29CCC%29C_200.svg"></td>
         </tr>
     </tbody>
@@ -1124,14 +1124,14 @@
             <td>3</td>
             <td>76754-18-2</td>
             <td>N-phenyl-N-[(1R,5S)-8-(2-phenylethyl)-8-azabicyclo[3.2.1]octan-3-yl]propanamide</td>
-            <td>&nbsp;</td>
+            <td><a href="https://en.wikipedia.org/wiki/Fentanyl_tropane" target="_blank">Fentanyl tropane(tropafentanyl)</a></td>
             <td><img src="images/CCC(=O)N(C1C%5BC%40H%5D2CC%5BC%40%40H%5D(C1)N2CCC3=CC=CC=C3)C4=CC=CC=C4_200.svg"></td>
         </tr>
         <tr>
             <td>4</td>
             <td>344235-54-7</td>
             <td>N-phenyl-N-[1-(2-phenylethyl)azepan-4-yl]propanamide</td>
-            <td>&nbsp;</td>
+            <td><a href="https://en.wikipedia.org/wiki/Fentanyl_azepane" target="_blank">Fentanyl azepane</a></td>
             <td><img src="images/CCC(=O)N(C1CCCN(CC1)CCC2=CC=CC=C2)C3=CC=CC=C3_200.svg"></td>
         </tr>
     </tbody>
@@ -1154,7 +1154,7 @@
             <td>1</td>
             <td><del>714190-52-0</del></td>
             <td><del>2-[2-[(4-ethoxyphenyl)methyl]-5-nitrobenzimidazol-1-yl]-N,N-dimethylethanamine</del></td>
-            <td>&nbsp;</td>
+            <td><a href="https://en.wikipedia.org/wiki/N,N-Dimethyletonitazene" target="_blank"><del>N,N-Dimethyletonitazene</del></a></td>
             <td><img src="images/CCOC1=CC=C(C=C1)CC2=NC3=C(N2CCN(C)C)C=CC(=C3)%5BN%2B%5D(=O)%5BO-%5D_200.svg"></td>
         </tr>
         <tr>
@@ -1277,7 +1277,7 @@
             <td>3</td>
             <td>&nbsp;</td>
             <td>(1R,2R)-2-methoxy-N-[2-[(9R)-9-pyridin-2-yl-6-oxaspiro[4.5]decan-9-yl]<br>ethyl]-2,3-dihydro-1H-inden-1-amine</td>
-            <td>&nbsp;</td>
+            <td>SCHEMBL18761381</td>
             <td><img src="images/CO%5BC%40H%5D1CC2=CC=CC=C2%5BC%40H%5D1NCC%5BC%40%5D1(C2=NC=CC=C2)CCOC2(CCCC2)C1_200.svg"></td>
         </tr>
         <tr>
@@ -1414,7 +1414,7 @@
             <td>5</td>
             <td>1849034-34-9</td>
             <td>N-[[1-[[(5S)-5-hydroxy-5,6,7,8-tetrahydronaphthalen-2-yl]methyl]piperidin-2-yl]methyl]-N-phenylpropanamide</td>
-            <td>&nbsp;</td>
+            <td><a href="https://en.wikipedia.org/wiki/Deekonda2016" target="_blank">Deekonda2016</a></td>
             <td><img src="images/CCC(=O)N(CC1CCCCN1CC1=CC2=C(C=C1)%5BC%40H%5D(O)CCC2)C1=CC=CC=C1_200.svg"></td>
         </tr>
         <tr>
@@ -1539,7 +1539,7 @@
             <td>1</td>
             <td>65619-06-9</td>
             <td>4-(Dimethylamino)-4-(4-methylphenyl)cyclohexan-1-one</td>
-            <td>&nbsp;</td>
+            <td><a href="https://en.wikipedia.org/wiki/4-Dimethylamino-4-(p-tolyl)cyclohexanone" target="_blank">dimetamine</a></td>
             <td><img src="images/CC1=CC=C(C2(N(C)C)CCC(=O)CC2)C=C1_200.svg"></td>
         </tr>
         <tr>
@@ -1560,7 +1560,7 @@
             <td>4</td>
             <td>80456-81-1</td>
             <td>3-[(1R,2R)-2-[(dimethylamino)methyl]-1-hydroxycyclohexyl]phenol</td>
-            <td><a href="" target="_blank">Desmetramadol(O-DSMT)</a></td>
+            <td><a href="https://en.wikipedia.org/wiki/Desmetramadol" target="_blank">Desmetramadol(O-DSMT)</a></td>
             <td><img src="images/CN%28CC1C%28O%29%28C2C%3DC%28O%29C%3DCC%3D2%29CCCC1%29C_200.svg"></td>
         </tr>
     </tbody>
@@ -1669,7 +1669,7 @@
             <td>7</td>
             <td>587023-54-9</td>
             <td>(6S,6aR,9R,10aR)-9-(hydroxymethyl)-6-(3-hydroxyprop-1-enyl)-6-methyl-<br>3-(2-methyloctan-2-yl)-6a,7,8,9,10,10a-hexahydrobenzo[c]chromen-1-ol</td>
-            <td>AM-4043</td>
+            <td><a href="https://en.wikipedia.org/wiki/AM-4030" target="_blank">AM-4043</a></td>
             <td><img src="images/CCCCCCC%28C%29%28C%29C1%3DCC%28O%29%3DC2%5BC%40%40H%5D3C%5BC%40H%5D%28CO%29CC%5BC%40H%5D3%5BC%40%40%5D%28C%29%28OC2%3DC1%29C%3DCCO_200.svg"></td>
         </tr>
         <tr>
@@ -1748,7 +1748,7 @@
             <td>1</td>
             <td>23036-19-3</td>
             <td>1-(1-Phenylcyclopentyl)piperidine</td>
-            <td>&nbsp;</td>
+            <td>PCPEP</td>
             <td><img src="images/C1=CC=C(C2(N3CCCCC3)CCCC2)C=C1_200.svg"></td>
         </tr>
         <tr>
@@ -1811,7 +1811,7 @@
             <td>10</td>
             <td>2201-64-1</td>
             <td>N-ethyl-1-(3-methylphenyl)cyclohexan-1-amine</td>
-            <td>3-Me-PCE</td>
+            <td><a href="https://en.wikipedia.org/wiki/3-Me-PCE" target="_blank">3-Me-PCE</a></td>
             <td><img src="images/CCNC1(CCCCC1)C2=CC=CC(=C2)C_200.svg"></td>
         </tr>
         <tr>
@@ -1925,7 +1925,7 @@
         </tr>
         <tr>
             <td>8</td>
-            <td>1218-40-2</td>
+            <td>&nbsp;</td>
             <td>2-(2-bromophenyl)-2-(ethylamino)cyclohexan-1-one</td>
             <td>2-Oxo-2BrPCE</td>
             <td><img src="images/CCNC1(C2=C(Br)C=CC=C2)CCCCC1=O_200.svg"></td>
@@ -1957,6 +1957,13 @@
             <td>2-(2-fluorophenyl)-2-[(propan-2-yl)amino]cyclohexan-1-one</td>
             <td>2-FXiPr</td>
             <td><img src="images/CC%28NC1%28C%28%3DO%29CCCC1%29C1C%28F%29%3DCC%3DCC%3D1%29C_200.svg"></td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td>&nbsp;</td>
+            <td>2-(2-chlorophenyl)-2-(methylamino)cyclopentan-1-one</td>
+            <td><a href="https://en.wikipedia.org/wiki/Ketamir-2" target="_blank">Ketamir-2(oral ketamine analogue)</a></td>
+            <td><img src="images/CNC1%28C2C%28Cl%29%3DCC%3DCC%3D2%29C%28%3DO%29CCC1_200.svg"></td>
         </tr>
     </tbody>
 </table>
@@ -2667,7 +2674,7 @@
             <td>3</td>
             <td>1350769-57-1</td>
             <td>3-methyl-2-naphthalen-2-ylmorpholine</td>
-            <td>&nbsp;</td>
+            <td><a href="https://en.wikipedia.org/wiki/Naphthylmetrazine" target="_blank">Naphthylmetrazine</a></td>
             <td><img src="images/CC1NCCOC1C1=CC=C2C=CC=CC2=C1_200.svg"></td>
         </tr>
         <tr>
@@ -2718,7 +2725,7 @@
             <td>3</td>
             <td>&nbsp;</td>
             <td>6-Amino-2-(fluoromethyl)-3-(2-methylphenyl)quinazolin-4-one</td>
-            <td>&nbsp;</td>
+            <td>HQ-355</td>
             <td><img src="images/CC1=CC=CC=C1N1C(CF)=NC2=CC=CC=C2C1=O_200.svg"></td>
         </tr>
         <tr>
@@ -2730,7 +2737,7 @@
         </tr>
         <tr>
             <td>5</td>
-            <td>4260-28-0</td>
+            <td>1915-81-7</td>
             <td>3-(2-methoxyphenyl)-2-methylquinazolin-4(3H)-one</td>
             <td>&nbsp;</td>
             <td><img src="images/OC1=CC=CC=C1N1C(C)=NC2=CC=CC=C2C1=O_200.svg"></td>
@@ -2769,14 +2776,14 @@
             <td>1</td>
             <td>2243815-18-9</td>
             <td>1-methyl-8-nitro-6-(2-fluorophenyl)-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepine</td>
-            <td>FNTZ</td>
+            <td><a href="https://en.wikipedia.org/wiki/Flunitrazolam" target="_blank">Flunitrazolam(FNTZ)</a></td>
             <td><img src="images/CC1=NN=C2CN=C(C3=C(F)C=CC=C3)C3=CC(%5BN%2B%5D(=O)%5BO-%5D)=CC=C3N12_200.svg"></td>
         </tr>
         <tr>
             <td>2</td>
             <td>39243-02-2</td>
             <td>8-bromo-1-methyl-6-pyridin-2-yl-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepine</td>
-            <td><a href="https://en.wikipedia.org/wiki/Pyrazolam" target="_blank">SH-I-04</a></td>
+            <td><a href="https://en.wikipedia.org/wiki/Pyrazolam" target="_blank">Pyrazolam(SH-I-04)</a></td>
             <td><img src="images/CC1=NN=C2CN=C(C3=CC=CC=N3)C3=CC(Br)=CC=C3N12_200.svg"></td>
         </tr>
         <tr>
@@ -2785,6 +2792,20 @@
             <td>7-Chloro-5-(2-fluorophenyl)-1,3-dihydro-1,4-benzodiazepin-2-one</td>
             <td><a href="https://en.wikipedia.org/wiki/Norfludiazepam" target="_blank">Norfludiazepam</a></td>
             <td><img src="images/O=C1CN=C(C2=CC=CC=C2F)C2=CC(Cl)=CC=C2N1_200.svg"></td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>59467-77-5</td>
+            <td>8-chloro-6-(2-chlorophenyl)-1-methyl-4H-imidazo[1,5-a][1,4]benzodiazepine</td>
+            <td><a href="https://en.wikipedia.org/wiki/Climazolam" target="_blank">Climazolam(Ro21-3982) </a></td>
+            <td><img src="images/ClC1C%28C2C3C%3DC%28Cl%29C%3DCC%3D3N3C%28%3DCN%3DC3C%29CN%3D2%29%3DCC%3DCC%3D1_200.svg"></td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>50330-59-1</td>
+            <td>8-chloro-6-(2-chlorophenyl)-N,N-dimethyl-4H-[1,2,4]triazolo[1,5-a][1,4]benzodiazepine-2-carboxamide</td>
+            <td><a href="https://en.wikipedia.org/wiki/Rilmazolam" target="_blank">Rilmazolam</a></td>
+            <td><img src="images/CN%28C%28C1N%3DC2CN%3DC%28C3C%28Cl%29%3DCC%3DCC%3D3%29C3C%3DC%28Cl%29C%3DCC%3D3N2N%3D1%29%3DO%29C_200.svg"></td>
         </tr>
     </tbody>
 </table>
@@ -2808,6 +2829,13 @@
             <td>4-(2-fluorophenyl)-1,3,8-trimethyl-6H-pyrazolo[3,4-e][1,4]diazepin-7-one</td>
             <td><a href="https://en.wikipedia.org/wiki/Zolazepam" target="_blank">Zolazepam</a></td>
             <td><img src="images/C1=NN(C)C2=C1C(C1=CC=CC=C1F)=NCC(=O)N2C_200.svg"></td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>31868-18-5</td>
+            <td>10-chloro-11b-(2-chlorophenyl)-3-methyl-2,3,5,7-tetrahydro-[1,3]oxazolo[3,2-d][1,4]benzodiazepin-6-one</td>
+            <td><a href="https://en.wikipedia.org/wiki/Mexazolam" target="_blank">Mexazolam</a></td>
+            <td><img src="images/CC1N2CC%28NC3C%3DCC%28Cl%29%3DCC%3D3C2%28C2C%28Cl%29%3DCC%3DCC%3D2%29OC1%29%3DO_200.svg"></td>
         </tr>
     </tbody>
 </table>
