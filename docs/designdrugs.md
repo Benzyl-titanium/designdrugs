@@ -11,6 +11,7 @@
 <ul class="nav-list">
     <li><a href="#2c-x">2C-x</a></li>
     <li><a href="#25x-nbx">25x-NBx</a></li>
+    <li><a href="#nbome-x">NBOMe-x</a></li>
     <li><a href="#dox">DOx</a></li>
     <li><a href="#类麦司卡林">类麦司卡林</a></li>
     <li><a href="#3c-x">3C-x</a></li>
