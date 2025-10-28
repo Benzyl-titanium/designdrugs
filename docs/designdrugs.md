@@ -242,7 +242,7 @@
         </tr>
     </tbody>
 </table>
-</details><br>
+</details>
 
 # NBOMe-x
 
