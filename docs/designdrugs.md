@@ -218,6 +218,78 @@
             <td><a href="https://en.wikipedia.org/wiki/25I-NBOH" target="_blank">25I-NBOH</a></td>
             <td><img src="images/C1%28%3DCC%28CCNCC2%3DCC%3DCC%3DC2O%29%3DC%28OC%29C%3DC1I%29OC_200.svg"></td>
         </tr>
+        <tr>
+            <td>5</td>
+            <td>1391488-16-6</td>
+            <td>2-[[2-(4-chloro-2,5-dimethoxyphenyl)ethylamino]methyl]phenol</td>
+            <td><a href="https://en.wikipedia.org/wiki/25C-NBOH" target="_blank">25C-NBOH</a></td>
+            <td><img src="images/COC1C%28CCNCC2C%28O%29%3DCC%3DCC%3D2%29%3DCC%28OC%29%3DC%28Cl%29C%3D1_200.svg"></td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>919797-16-3</td>
+            <td>2-(2,5-dimethoxyphenyl)-N-[(2-methoxyphenyl)methyl]ethanamine</td>
+            <td><a href="https://en.wikipedia.org/wiki/25H-NBOMe" target="_blank">25H-NBOMe</a></td>
+            <td><img src="images/COC1C%3DCC%28OC%29%3DC%28CCNCC2C%28OC%29%3DCC%3DCC%3D2%29C%3D1_200.svg"></td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>919797-21-0</td>
+            <td>N-[(2-fluorophenyl)methyl]-2-(4-iodo-2,5-dimethoxyphenyl)ethanamine</td>
+            <td><a href="https://en.wikipedia.org/wiki/25I-NBF" target="_blank">25I-NBF</a></td>
+            <td><img src="images/COC1C%28CCNCC2C%28F%29%3DCC%3DCC%3D2%29%3DCC%28OC%29%3DC%28I%29C%3D1_200.svg"></td>
+        </tr>
+    </tbody>
+</table>
+</details><br>
+
+# NBOMe-x
+
+<details>
+<table>
+    <tbody>
+        <tr>
+            <td width="40"><strong>序号</strong></td>
+            <td width="105"><strong>CAS号</strong></td>
+            <td><strong>英文名</strong></td>
+            <td><strong>备注</strong></td>
+            <td><strong>结构式</strong></td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>1354632-01-1</td>
+            <td>N-[(2-methoxyphenyl)methyl]-2-(3,4,5-trimethoxyphenyl)ethanamine</td>
+            <td><a href="https://en.wikipedia.org/wiki/NBOMe-mescaline" target="_blank">NBOMe-mescaline</a></td>
+            <td><img src="images/COC1C%28CNCCC2C%3DC%28OC%29C%28OC%29%3DC%28OC%29C%3D2%29%3DCC%3DCC%3D1_200.svg"></td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>1027079-85-1</td>
+            <td>2-(4-ethoxy-3,5-dimethoxyphenyl)-N-[(2-methoxyphenyl)methyl]ethanamine</td>
+            <td><a href="https://en.wikipedia.org/wiki/NBOMe-escaline" target="_blank">NBOMe-escaline</a></td>
+            <td><img src="images/CCOC1C%28OC%29%3DCC%28CCNCC2C%28OC%29%3DCC%3DCC%3D2%29%3DCC%3D1OC_200.svg"></td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>&nbsp;</td>
+            <td>1-(4-bromo-2,5-dimethoxyphenyl)-N-[(2-methoxyphenyl)methyl]propan-2-amine</td>
+            <td><a href="https://en.wikipedia.org/wiki/DOB-NBOMe" target="_blank">NBOMe-DOB</a></td>
+            <td><img src="images/BrC1C%28OC%29%3DCC%28CC%28NCC2C%28OC%29%3DCC%3DCC%3D2%29C%29%3DC%28OC%29C%3D1_200.svg"></td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>&nbsp;</td>
+            <td>1-(4-iodo-2,5-dimethoxyphenyl)-N-[(2-methoxyphenyl)methyl]propan-2-amine</td>
+            <td><a href="https://en.wikipedia.org/wiki/DOI-NBOMe" target="_blank">NBOMe-DOI</a></td>
+            <td><img src="images/IC1C%28OC%29%3DCC%28CC%28NCC2C%28OC%29%3DCC%3DCC%3D2%29C%29%3DC%28OC%29C%3D1_200.svg"></td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>2836395-73-2</td>
+            <td>1-(2,5-dimethoxy-4-methylphenyl)-N-[(2-methoxyphenyl)methyl]propan-2-amine</td>
+            <td><a href="https://en.wikipedia.org/wiki/DOM-NBOMe" target="_blank">NBOMe-DOM</a></td>
+            <td><img src="images/C1%28C%29C%28OC%29%3DCC%28CC%28NCC2C%28OC%29%3DCC%3DCC%3D2%29C%29%3DC%28OC%29C%3D1_200.svg"></td>
+        </tr>
     </tbody>
 </table>
 </details>
@@ -382,6 +454,13 @@
             <td>2-(3,5-dimethoxy-4-prop-2-enoxyphenyl)ethanamine</td>
             <td><a href="https://en.wikipedia.org/wiki/Allylescaline" target="_blank">Allylescaline</a></td>
             <td><img src="images/COC1C%28OCC%3DC%29%3DC%28OC%29C%3DC%28CCN%29C%3D1_200.svg"></td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>194787-78-5</td>
+            <td>2-(8-methoxy-2,3,5,6-tetrahydrofuro[3,2-f][1]benzofuran-4-yl)ethanamine</td>
+            <td><a href="https://en.wikipedia.org/wiki/Mescaline-FLY" target="_blank">Mescaline-FLY</a></td>
+            <td><img src="images/COC1C2OCCC%3D2C%28CCN%29%3DC2CCOC%3D12_200.svg"></td>
         </tr>
     </tbody>
 </table>
@@ -1518,6 +1597,13 @@
             <td>3-(1-methyl-3-propyl-pyrrolidin-3-yl)phenol</td>
             <td><a href="https://en.wikipedia.org/wiki/Profadol" target="_blank">Profadol (CI-572)</a></td>
             <td><img src="images/CCC%5BC%40%40%5D1(C2=CC(O)=CC=C2)CCN(C)C1_200.svg"></td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>54340-58-8</td>
+            <td>3-(3-ethyl-1-methylazepan-3-yl)phenol</td>
+            <td><a href="https://en.wikipedia.org/wiki/Meptazinol" target="_blank">Meptazinol</a></td>
+            <td><img src="images/OC1C%3DC%28C2%28CC%29CN%28C%29CCCC2%29C%3DCC%3D1_200.svg"></td>
         </tr>
     </tbody>
 </table>
