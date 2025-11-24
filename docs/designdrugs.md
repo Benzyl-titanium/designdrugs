@@ -2961,6 +2961,62 @@
             <td>123I-iodometomidate</td>
             <td><img src="images/COC%28C1N%28%5BC%40%40H%5D%28C2C%3DCC%28I%29%3DCC%3D2%29C%29C%3DNC%3D1%29%3DO_200.svg"></td>
         </tr>
+        <tr>
+            <td>4</td>
+            <td>&nbsp;</td>
+            <td>methyl 3-[1-(4-fluorophenyl)ethyl]imidazole-4-carboxylate</td>
+            <td>Flumetomide</td>
+            <td><img src="images/COC%28C1N%28C%28C2C%3DCC%28F%29%3DCC%3D2%29C%29C%3DNC%3D1%29%3DO_200.svg"></td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>&nbsp;</td>
+            <td>2,2-dimethylpropyl 1-(1-phenylethyl)-1H-imidazole-5-carboxylate</td>
+            <td>Neopentomidate</td>
+            <td><img src="images/CC%28N1C%3DNC%3DC1C%28%3DO%29OCC%28C%29%28C%29C%29C1%3DCC%3DCC%3DC1_200.svg"></td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>&nbsp;</td>
+            <td>2-methylbutan-2-yl 3-(1-phenylethyl)imidazole-4-carboxylate</td>
+            <td>Tert-pentomidate</td>
+            <td><img src="images/CCC%28C%29%28C%29OC%28%3DO%29C1%3DCN%3DCN1C%28C%29C1%3DCC%3DCC%3DC1_200.svg"></td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>&nbsp;</td>
+            <td>3-methylbutan-2-yl 1-(1-phenylethyl)-1H-imidazole-5-carboxylate</td>
+            <td>3-Methyl-2-butomidate</td>
+            <td><img src="images/CC%28C%29C%28C%29OC%28%3DO%29C1%3DCN%3DCN1C%28C%29C1%3DCC%3DCC%3DC1_200.svg"></td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>&nbsp;</td>
+            <td>2-methylbutyl 1-(1-phenylethyl)-1H-imidazole-5-carboxylate</td>
+            <td>2-Methylbutomidate</td>
+            <td><img src="images/CCC%28C%29COC%28%3DO%29C1%3DCN%3DCN1C%28C%29C1%3DCC%3DCC%3DC1_200.svg"></td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>&nbsp;</td>
+            <td>pentan-2-yl 1-(1-phenylethyl)-1H-imidazole-5-carboxylate</td>
+            <td>Sec-pentomidate</td>
+            <td><img src="images/CCCC%28C%29OC%28%3DO%29C1%3DCN%3DCN1C%28C%29C1%3DCC%3DCC%3DC1_200.svg"></td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>&nbsp;</td>
+            <td>3-methylbutyl 1-(1-phenylethyl)-1H-imidazole-5-carboxylate</td>
+            <td>Isopentomidate</td>
+            <td><img src="images/CC%28C%29CCOC%28%3DO%29C1%3DCN%3DCN1C%28C%29C1%3DCC%3DCC%3DC1_200.svg"></td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td>&nbsp;</td>
+            <td>pentyl 3-(1-phenylethyl)imidazole-4-carboxylate</td>
+            <td>Pentomidate</td>
+            <td><img src="images/CCCCCOC%28%3DO%29C1%3DCN%3DCN1C%28C%29C1%3DCC%3DCC%3DC1_200.svg"></td>
+        </tr>
     </tbody>
 </table>
 </details>
