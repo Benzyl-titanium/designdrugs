@@ -3017,6 +3017,27 @@
             <td>Pentomidate</td>
             <td><img src="images/CCCCCOC%28%3DO%29C1%3DCN%3DCN1C%28C%29C1%3DCC%3DCC%3DC1_200.svg"></td>
         </tr>
+        <tr>
+            <td>12</td>
+            <td>&nbsp;</td>
+            <td>methyl 3-[(1R)-1-(4-fluorophenyl)ethyl]imidazole-4-carboxylate</td>
+            <td>4-Fluoro-metomidate</td>
+            <td><img src="images/COC%28%3DO%29C1%3DCN%3DCN1%5BC%40H%5D%28C%29C1%3DCC%3DC%28F%29C%3DC1_200.svg"></td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td>&nbsp;</td>
+            <td>ethyl 3-[(1R)-1-(2-fluorophenyl)ethyl]imidazole-4-carboxylate</td>
+            <td>2-Fluoro-etomidate</td>
+            <td><img src="images/CCOC%28C1N%28%5BC%40%40H%5D%28C2C%28F%29%3DCC%3DCC%3D2%29C%29C%3DNC%3D1%29%3DO_200.svg"></td>
+        </tr>
+        <tr>
+            <td>14</td>
+            <td>&nbsp;</td>
+            <td>methyl 3-[(1R)-1-(2-fluorophenyl)ethyl]imidazole-4-carboxylate</td>
+            <td>2-Fluoro-metomidate</td>
+            <td><img src="images/COC%28%3DO%29C1%3DCN%3DCN1%5BC%40H%5D%28C%29C1%3DCC%3DCC%3DC1F_200.svg"></td>
+        </tr>
     </tbody>
 </table>
 </details>
