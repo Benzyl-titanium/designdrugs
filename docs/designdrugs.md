@@ -1195,10 +1195,10 @@
         </tr>
         <tr>
             <td>2</td>
-            <td>&nbsp;</td>
-            <td>N-{1-[methyl(2-phenylethyl)amino]propan-2-yl}-N-phenylpropanamide</td>
-            <td>&nbsp;</td>
-            <td><img src="images/CCC(=O)N(C1=CC=CC=C1)C(C)CN(C)CCC1=CC=CC=C1_200.svg"></td>
+            <td>253342-66-4</td>
+            <td>N-[4-[methyl(2-phenylethyl)amino]butan-2-yl]-N-phenylpropanamide</td>
+            <td><a href="https://en.wikipedia.org/wiki/Secofentanyl" target="_blank">Secofentanyl</a></td>
+            <td><img src="images/CCC%28N%28C%28CCN%28CCC1C%3DCC%3DCC%3D1%29C%29C%29C1C%3DCC%3DCC%3D1%29%3DO_200.svg"></td>
         </tr>
         <tr>
             <td>3</td>
