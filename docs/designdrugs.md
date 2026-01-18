@@ -47,6 +47,7 @@
     <li><a href="#取代苄基哌嗪">取代苄基哌嗪</a></li>
     <li><a href="#取代苯基哌嗪">取代苯基哌嗪</a></li>
     <li><a href="#取代卡西酮">取代卡西酮</a></li>
+    <li><a href="#类α-ppp">类α-PPP</a></li>
     <li><a href="#取代印满">取代印满</a></li>
     <li><a href="#类mda">类MDA</a></li>
     <li><a href="#类mdma">类MDMA</a></li>
@@ -2334,6 +2335,57 @@
             <td>1-(3,4-dimethoxyphenyl)-2-(methylamino)propan-1-one</td>
             <td>3,4-Dimethoxymethcathinone</td>
             <td><img src="images/CNC%28C%28C1C%3DC%28OC%29C%28OC%29%3DCC%3D1%29%3DO%29C_200.svg"></td>
+        </tr>
+    </tbody>
+</table>
+</details>
+
+# 类α-PPP
+
+<details>
+<table>
+    <tbody>
+        <tr>
+            <td width="40"><strong>序号</strong></td>
+            <td width="105"><strong>CAS号</strong></td>
+            <td><strong>英文名</strong></td>
+            <td><strong>备注</strong></td>
+            <td><strong>结构式</strong></td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>28117-76-2</td>
+            <td>1-(4-fluorophenyl)-2-pyrrolidin-1-ylpropan-1-one</td>
+            <td>4-F-α-PPP</td>
+            <td><img src="images/CC%28N1CCCC1%29C%28C1C%3DCC%28F%29%3DCC%3D1%29%3DO_200.svg"></td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>850352-61-3</td>
+            <td>1-(3,4-dichlorophenyl)-2-pyrrolidin-1-ylpentan-1-one</td>
+            <td><a href="https://en.wikipedia.org/wiki/O-2390" target="_blank">DCPVP</a></td>
+            <td><img src="images/CCCC%28N1CCCC1%29C%28C1C%3DCC%28Cl%29%3DC%28Cl%29C%3D1%29%3DO_200.svg"></td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>850442-84-1</td>
+            <td>1-(3,4-dimethoxyphenyl)-2-pyrrolidin-1-ylpentan-1-one</td>
+            <td><a href="https://en.wikipedia.org/wiki/3%27,4%27-Dimethoxy-%CE%B1-pyrrolidinopentiophenone" target="_blank">DMPVP</a></td>
+            <td><img src="images/COC1C%3DC%28C%28%3DO%29C%28N2CCCC2%29CCC%29C%3DCC%3D1OC_200.svg"></td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>2725852-55-9</td>
+            <td>1-(3-fluorophenyl)-2-pyrrolidin-1-ylpentan-1-one</td>
+            <td><a href="https://en.wikipedia.org/wiki/3F-PVP" target="_blank">3F-PVP</a></td>
+            <td><img src="images/CCCC%28N1CCCC1%29C%28C1C%3DCC%3DC%28F%29C%3D1%29%3DO_200.svg"></td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>2748592-28-9</td>
+            <td>1-(4-chlorophenyl)-2-pyrrolidin-1-ylhexan-1-one</td>
+            <td><a href="https://en.wikipedia.org/wiki/4-Cl-PHP" target="_blank">4-Cl-PHP</a></td>
+            <td><img src="images/CCCCC%28N1CCCC1%29C%28C1C%3DCC%28Cl%29%3DCC%3D1%29%3DO_200.svg"></td>
         </tr>
     </tbody>
 </table>
