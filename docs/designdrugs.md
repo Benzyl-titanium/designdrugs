@@ -50,7 +50,9 @@
     <li><a href="#类α-ppp">类α-PPP</a></li>
     <li><a href="#取代印满">取代印满</a></li>
     <li><a href="#类mda">类MDA</a></li>
+    <li><a href="#类mdmc">类MDMC</a></li>
     <li><a href="#类mdma">类MDMA</a></li>
+    <li><a href="#x-xapxb">x-xAPxB</a></li>
     <li><a href="#2-xapb">2-xAPB</a></li>
     <li><a href="#xph">xPH</a></li>
     <li><a href="#xd2pm">xD2PM</a></li>
@@ -2472,6 +2474,57 @@
 </table>
 </details>
 
+# 类MDMC
+
+<details>
+<table>
+    <tbody>
+        <tr>
+            <td width="40"><strong>序号</strong></td>
+            <td width="105"><strong>CAS号</strong></td>
+            <td><strong>英文名</strong></td>
+            <td><strong>备注</strong></td>
+            <td><strong>结构式</strong></td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>1157947-89-1</td>
+            <td>1-(1,3-benzodioxol-5-yl)-4-methyl-2-(methylamino)pentan-1-one</td>
+            <td>PD-130868</td>
+            <td><img src="images/CNC(CC(C)C)C(=O)C1=CC=C2OCOC2=C1_200.svg"></td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>1364933-82-3</td>
+            <td>2-(Ethylamino)-1-(7-methy-1,3-benzodioxol-5-yl)ethan-1-one</td>
+            <td><a href="https://en.wikipedia.org/wiki/5-Methylethylone" target="_blank">5-Methylethylone</a></td>
+            <td><img src="images/CCNC(C)C(=O)C1=CC(C)=C2OCOC2=C1_200.svg"></td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>746541-09-3</td>
+            <td>1-(1,3-benzodioxol-5-yl)-2-pyrrolidin-1-ylheptan-1-one</td>
+            <td>MDPV8</td>
+            <td><img src="images/CCCCCC(C(=O)C1=CC=C2OCOC2=C1)N1CCCC1_200.svg"></td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>749145-17-3</td>
+            <td>1-(1,3-benzodioxol-5-yl)-4-methyl-2-pyrrolidin-1-ylpentan-1-one</td>
+            <td>MDPIHP</td>
+            <td><img src="images/CC(C)CC(C(=O)C1=CC=C2OCOC2=C1)N1CCCC1_200.svg"></td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>2230716-98-8</td>
+            <td>1-(7-methoxy-1,3-benzodioxol-5-yl)-2-(methylamino)propan-1-one</td>
+            <td><a href="https://en.wikipedia.org/wiki/5-Methoxymethylone" target="_blank">2-A1MP<br>βk-MMDMA</a></td>
+            <td><img src="images/CNC%28C%29C%28%3DO%29C1%3DCC2%3DC%28OCO2%29C%28OC%29%3DC1_200.svg"></td>
+        </tr>
+    </tbody>
+</table>
+</details>
+
 # 类MDMA
 
 <details>
@@ -2493,80 +2546,61 @@
         </tr>
         <tr>
             <td>2</td>
-            <td>1157947-89-1</td>
-            <td>1-(1,3-benzodioxol-5-yl)-4-methyl-2-(methylamino)pentan-1-one</td>
-            <td>PD-130868</td>
-            <td><img src="images/CNC(CC(C)C)C(=O)C1=CC=C2OCOC2=C1_200.svg"></td>
-        </tr>
-        <tr>
-            <td>3</td>
-            <td>1364933-82-3</td>
-            <td>2-(Ethylamino)-1-(7-methy-1,3-benzodioxol-5-yl)ethan-1-one</td>
-            <td><a href="https://en.wikipedia.org/wiki/5-Methylethylone" target="_blank">5-Methylethylone</a></td>
-            <td><img src="images/CCNC(C)C(=O)C1=CC(C)=C2OCOC2=C1_200.svg"></td>
-        </tr>
-        <tr>
-            <td>4</td>
-            <td>746541-09-3</td>
-            <td>1-(1,3-benzodioxol-5-yl)-2-pyrrolidin-1-ylheptan-1-one</td>
-            <td>MDPV8</td>
-            <td><img src="images/CCCCCC(C(=O)C1=CC=C2OCOC2=C1)N1CCCC1_200.svg"></td>
-        </tr>
-        <tr>
-            <td>5</td>
-            <td>749145-17-3</td>
-            <td>1-(1,3-benzodioxol-5-yl)-4-methyl-2-pyrrolidin-1-ylpentan-1-one</td>
-            <td>MDPIHP</td>
-            <td><img src="images/CC(C)CC(C(=O)C1=CC=C2OCOC2=C1)N1CCCC1_200.svg"></td>
-        </tr>
-        <tr>
-            <td>6</td>
             <td>133787-66-3</td>
             <td>1-(2,3-dihydro-1,4-benzodioxin-6-yl)-N-methylpropan-2-amine</td>
             <td><a href="https://en.wikipedia.org/wiki/EDMA" target="_blank">EDMA</a></td>
             <td><img src="images/CNC(C)CC1=CC=C2OCCOC2=C1_200.svg"></td>
         </tr>
         <tr>
-            <td>7</td>
+            <td>3</td>
+            <td>65033-29-6</td>
+            <td>1-(1,3-benzodioxol-5-yl)-N-benzylpropan-2-amine</td>
+            <td><a href="https://en.wikipedia.org/wiki/Methylenedioxybenzylamphetamine" target="_blank">MDBZ</a></td>
+            <td><img src="images/C%28C1C%3DCC%3DCC%3D1%29NC%28CC1C%3DC2C%28OCO2%29%3DCC%3D1%29C_200.svg"></td>
+        </tr>
+    </tbody>
+</table>
+</details>
+
+# x-xAPxB
+
+<details>
+<table>
+    <tbody>
+        <tr>
+            <td width="40"><strong>序号</strong></td>
+            <td width="105"><strong>CAS号</strong></td>
+            <td><strong>英文名</strong></td>
+            <td><strong>备注</strong></td>
+            <td><strong>结构式</strong></td>
+        </tr>
+        <tr>
+            <td>1</td>
             <td>1354631-79-0</td>
             <td>1-(Benzofuran-6-yl)-N-methylpropan-2-amine</td>
             <td><a href="https://en.wikipedia.org/wiki/6-MAPB" target="_blank">6-MAPB</a></td>
             <td><img src="images/CC(NC)CC1=CC(OC=C2)=C2C=C1_200.svg"></td>
         </tr>
         <tr>
-            <td>8</td>
+            <td>2</td>
             <td>1445566-01-7</td>
             <td>1-(1-Benzofuran-5-yl)-N-ethylpropan-2-amine</td>
             <td><a href="https://en.wikipedia.org/wiki/5-EAPB" target="_blank">5-EAPB</a></td>
             <td><img src="images/CC(NCC)CC1=CC(C=CO2)=C2C=C1_200.svg"></td>
         </tr>
         <tr>
-            <td>9</td>
+            <td>3</td>
             <td>1354631-78-9</td>
             <td>1-(2,3-dihydrobenzofuran-5-yl)-N-methylpropan-2-amine</td>
             <td><a href="https://en.wikipedia.org/wiki/5-MAPDB" target="_blank">5-MAPDB</a></td>
             <td><img src="images/CC(NC)CC1=CC(CCO2)=C2C=C1_200.svg"></td>
         </tr>
         <tr>
-            <td>10</td>
+            <td>4</td>
             <td>1354631-81-4</td>
             <td>1-(2,3-dihydro-1-benzofuran-6-yl)-N-methylpropan-2-amine</td>
             <td><a href="https://en.wikipedia.org/wiki/6-MAPDB" target="_blank">6-MAPDB</a></td>
             <td><img src="images/CC(CC1=CC2=C(CCO2)C=C1)NC_200.svg"></td>
-        </tr>
-        <tr>
-            <td>11</td>
-            <td>2230716-98-8</td>
-            <td>1-(7-methoxy-1,3-benzodioxol-5-yl)-2-(methylamino)propan-1-one</td>
-            <td><a href="https://en.wikipedia.org/wiki/5-Methoxymethylone" target="_blank">2-A1MP<br>βk-MMDMA</a></td>
-            <td><img src="images/CNC%28C%29C%28%3DO%29C1%3DCC2%3DC%28OCO2%29C%28OC%29%3DC1_200.svg"></td>
-        </tr>
-        <tr>
-            <td>12</td>
-            <td>65033-29-6</td>
-            <td>1-(1,3-benzodioxol-5-yl)-N-benzylpropan-2-amine</td>
-            <td><a href="https://en.wikipedia.org/wiki/Methylenedioxybenzylamphetamine" target="_blank">MDBZ</a></td>
-            <td><img src="images/C%28C1C%3DCC%3DCC%3D1%29NC%28CC1C%3DC2C%28OCO2%29%3DCC%3D1%29C_200.svg"></td>
         </tr>
     </tbody>
 </table>
