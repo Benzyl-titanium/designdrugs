@@ -4,7 +4,7 @@
 
 ## 内容
 
-主要收集那些未被列入《药用类麻醉药品目录》，《药用类精神药品目录》，《非药用类麻醉药品和精神药品目录》的化合物，关于这些目录里的化合物可以查看[管制药品结构式目录（2025 年版）](https://github.com/Benzyl-titanium/Structural-formula)，<del>中划线</del>的化合物表示截至最后更新日期已被列管
+主要收集那些未被列入《药用类麻醉药品目录》，《药用类精神药品目录》，《非药用类麻醉药品和精神药品目录》的化合物，关于这些目录里的化合物可以查看[管制药品结构式目录（2026 年版）](https://github.com/Benzyl-titanium/Structural-formula)，<del>中划线</del>的化合物表示截至最后更新日期已被列管
 
 ## 导航
 
@@ -152,9 +152,9 @@
         </tr>
          <tr>
             <td>11</td>
-            <td>807631-09-0</td>
-            <td>2-amino-1-(4-bromo-2,5-dimethoxyphenyl)ethanone</td>
-            <td><a href="https://en.wikipedia.org/wiki/%CE%92k-2C-B" target="_blank">βk-2C-B</a></td>
+            <td><del>807631-09-0</del></td>
+            <td><del>2-amino-1-(4-bromo-2,5-dimethoxyphenyl)ethanone</1del></td>
+            <td><a href="https://en.wikipedia.org/wiki/%CE%92k-2C-B" target="_blank"><del>βk-2C-B</del></a></td>
             <td><img src="images/C1C%28Br%29%3DC%28OC%29C%3DC%28C%28%3DO%29CN%29C%3D1OC_200.svg"></td>
         </tr>
         <tr>
@@ -1850,9 +1850,9 @@
         </tr>
         <tr>
             <td>3</td>
-            <td>2201-30-1</td>
-            <td>1-[1-(3-methylphenyl)cyclohexyl]piperidine</td>
-            <td><a href="https://en.wikipedia.org/wiki/3-Me-PCP" target="_blank">3-Me-PCP</a></td>
+            <td><del>2201-30-1</del></td>
+            <td><del>1-[1-(3-methylphenyl)cyclohexyl]piperidine</del></td>
+            <td><a href="https://en.wikipedia.org/wiki/3-Me-PCP" target="_blank"><del>3-Me-PCP</del></a></td>
             <td><img src="images/CC1=CC(C2(N3CCCCC3)CCCCC2)=CC=C1_200.svg"></td>
         </tr>
         <tr>
@@ -1871,9 +1871,9 @@
         </tr>
         <tr>
             <td>6</td>
-            <td>3034185-93-5</td>
-            <td>1-[1-(1,3-benzodioxol-5-yl)cyclohexyl]piperidine</td>
-            <td><a href="https://en.wikipedia.org/wiki/MDPCP" target="_blank">MDPCP</a></td>
+            <td><del>3034185-93-5</del></td>
+            <td><del>1-[1-(1,3-benzodioxol-5-yl)cyclohexyl]piperidine</del></td>
+            <td><a href="https://en.wikipedia.org/wiki/MDPCP" target="_blank"><del>MDPCP</del></a></td>
             <td><img src="images/C1=C(C2(N3CCCCC3)CCCCC2)C=C2OCOC2=C1_200.svg"></td>
         </tr>
         <tr>
@@ -1906,9 +1906,9 @@
         </tr>
         <tr>
             <td>11</td>
-            <td>1364933-80-1</td>
-            <td>N-Ethyl-1-(3-methoxyphenyl)cyclohexanamine</td>
-            <td><a href="https://en.wikipedia.org/wiki/3-MeO-PCE" target="_blank">3-MeO-PCE</a></td>
+            <td><del>1364933-80-1</del></td>
+            <td><del>N-Ethyl-1-(3-methoxyphenyl)cyclohexanamine</del></td>
+            <td><a href="https://en.wikipedia.org/wiki/3-MeO-PCE" target="_blank"><del>3-MeO-PCE</del></a></td>
             <td><img src="images/CCNC1(C2=CC(OC)=CC=C2)CCCCC1_200.svg"></td>
         </tr>
         <tr>
@@ -2029,9 +2029,9 @@
         </tr>
         <tr>
             <td>10</td>
-            <td>14176-49-9</td>
-            <td>2-Ethylamino-2-(2-thienyl)cyclohexanone</td>
-            <td><a href="https://en.wikipedia.org/wiki/Tiletamine" target="_blank">Tiletamine</a></td>
+            <td><del>14176-49-9</del></td>
+            <td><del>2-Ethylamino-2-(2-thienyl)cyclohexanone</del></td>
+            <td><a href="https://en.wikipedia.org/wiki/Tiletamine" target="_blank"><del>Tiletamine</del></a></td>
             <td><img src="images/CCNC1(C2=CC=CS2)CCCCC1=O_200.svg"></td>
         </tr>
         <tr>
@@ -2044,8 +2044,8 @@
         <tr>
             <td>12</td>
             <td>&nbsp;</td>
-            <td>2-(2-fluorophenyl)-2-[(propan-2-yl)amino]cyclohexan-1-one</td>
-            <td>2-FXiPr</td>
+            <td><del>2-(2-fluorophenyl)-2-[(propan-2-yl)amino]cyclohexan-1-one</del></td>
+            <td><del>2-FXiPr</del></td>
             <td><img src="images/CC%28NC1%28C%28%3DO%29CCCC1%29C1C%28F%29%3DCC%3DCC%3D1%29C_200.svg"></td>
         </tr>
         <tr>
@@ -2319,9 +2319,9 @@
         </tr>
         <tr>
             <td>2</td>
-            <td>779974-89-9</td>
-            <td>2-(ethylamino)-1-phenylpentan-1-one</td>
-            <td>NEP</td>
+            <td><del>779974-89-9</del></td>
+            <td><del>2-(ethylamino)-1-phenylpentan-1-one</del></td>
+            <td><a href="https://en.wikipedia.org/wiki/N-Ethylpentedrone" target="_blank"><del>NEP</del></a></td>
             <td><img src="images/CCCC%28NCC%29C%28%3DO%29C1%3DCC%3DCC%3DC1_200.svg"></td>
         </tr>
         <tr>
@@ -2509,9 +2509,9 @@
         </tr>
         <tr>
             <td>4</td>
-            <td>749145-17-3</td>
-            <td>1-(1,3-benzodioxol-5-yl)-4-methyl-2-pyrrolidin-1-ylpentan-1-one</td>
-            <td>MDPIHP</td>
+            <td><del>749145-17-3</del></td>
+            <td><del>1-(1,3-benzodioxol-5-yl)-4-methyl-2-pyrrolidin-1-ylpentan-1-one</del></td>
+            <td><del>MDPiHP</del></td>
             <td><img src="images/CC(C)CC(C(=O)C1=CC=C2OCOC2=C1)N1CCCC1_200.svg"></td>
         </tr>
         <tr>
@@ -2520,6 +2520,13 @@
             <td>1-(7-methoxy-1,3-benzodioxol-5-yl)-2-(methylamino)propan-1-one</td>
             <td><a href="https://en.wikipedia.org/wiki/5-Methoxymethylone" target="_blank">2-A1MP<br>βk-MMDMA</a></td>
             <td><img src="images/CNC%28C%29C%28%3DO%29C1%3DCC2%3DC%28OCO2%29C%28OC%29%3DC1_200.svg"></td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>80535-73-5</td>
+            <td>2-amino-1-(1,3-benzodioxol-5-yl)propan-1-one</td>
+            <td><a href="https://en.wikipedia.org/wiki/Methylenedioxycathinone" target="_blank">MDC<br>βk-MDA</a></td>
+            <td><img src="images/C1C%28C%28%3DO%29C%28N%29C%29%3DCC2OCOC%3D2C%3D1_200.svg"></td>
         </tr>
     </tbody>
 </table>
@@ -2813,6 +2820,13 @@
             <td>t-BOC-Methamphetamine</td>
             <td><img src="images/C1C%3DC%28CC%28N%28C%28%3DO%29OC%28C%29%28C%29C%29C%29C%29C%3DCC%3D1_200.svg"></td>
         </tr>
+        <tr>
+            <td>9</td>
+            <td>17590-01-1</td>
+            <td>2-phenyl-2-(1-phenylpropan-2-ylamino)acetonitrile</td>
+            <td><a href="https://en.wikipedia.org/wiki/Amfetaminil" target="_blank">Amfetaminil</a></td>
+            <td><img src="images/CC%28CC1%3DCC%3DCC%3DC1%29NC%28C%23N%29C1%3DCC%3DCC%3DC1_200.svg"></td>
+        </tr>
     </tbody>
 </table>
 </details>
@@ -3049,9 +3063,9 @@
         </tr>
         <tr>
             <td>4</td>
-            <td>&nbsp;</td>
-            <td>methyl 3-[1-(4-fluorophenyl)ethyl]imidazole-4-carboxylate</td>
-            <td>Flumetomide</td>
+            <td><del>737691-36-0</del></td>
+            <td><del>methyl 3-[1-(4-fluorophenyl)ethyl]imidazole-4-carboxylate</del></td>
+            <td><del>4F-Metomidate</del></td>
             <td><img src="images/COC%28C1N%28C%28C2C%3DCC%28F%29%3DCC%3D2%29C%29C%3DNC%3D1%29%3DO_200.svg"></td>
         </tr>
         <tr>
@@ -3106,19 +3120,12 @@
         <tr>
             <td>12</td>
             <td>&nbsp;</td>
-            <td>methyl 3-[(1R)-1-(4-fluorophenyl)ethyl]imidazole-4-carboxylate</td>
-            <td>4-Fluoro-metomidate</td>
-            <td><img src="images/COC%28%3DO%29C1%3DCN%3DCN1%5BC%40H%5D%28C%29C1%3DCC%3DC%28F%29C%3DC1_200.svg"></td>
-        </tr>
-        <tr>
-            <td>13</td>
-            <td>&nbsp;</td>
             <td>ethyl 3-[(1R)-1-(2-fluorophenyl)ethyl]imidazole-4-carboxylate</td>
             <td>2-Fluoro-etomidate</td>
             <td><img src="images/CCOC%28C1N%28%5BC%40%40H%5D%28C2C%28F%29%3DCC%3DCC%3D2%29C%29C%3DNC%3D1%29%3DO_200.svg"></td>
         </tr>
         <tr>
-            <td>14</td>
+            <td>13</td>
             <td>&nbsp;</td>
             <td>methyl 3-[(1R)-1-(2-fluorophenyl)ethyl]imidazole-4-carboxylate</td>
             <td>2-Fluoro-metomidate</td>
