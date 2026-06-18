@@ -153,7 +153,7 @@
          <tr>
             <td>11</td>
             <td><del>807631-09-0</del></td>
-            <td><del>2-amino-1-(4-bromo-2,5-dimethoxyphenyl)ethanone</1del></td>
+            <td><del>2-amino-1-(4-bromo-2,5-dimethoxyphenyl)ethanone</del></td>
             <td><a href="https://en.wikipedia.org/wiki/%CE%92k-2C-B" target="_blank"><del>βk-2C-B</del></a></td>
             <td><img src="images/C1C%28Br%29%3DC%28OC%29C%3DC%28C%28%3DO%29CN%29C%3D1OC_200.svg"></td>
         </tr>
