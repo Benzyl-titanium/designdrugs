@@ -1846,7 +1846,7 @@
             <td>1622348-63-3</td>
             <td>1-[1-(3-methylphenyl)cyclohexyl]pyrrolidine</td>
             <td><a href="https://en.wikipedia.org/wiki/3-Me-PCPy" target="_blank">3-Me-PCPy</a></td>
-            <td><img src="images/CC1=CC(C2(N3CCCCC3)CCCCC2)=CC=C1_200.svg"></td>
+            <td><img src="images/CC1%3DCC%28%3DCC%3DC1%29C2%28CCCCC2%29N3CCCC3_200.svg"></td>
         </tr>
         <tr>
             <td>3</td>
